@@ -1,0 +1,5075 @@
+fileFormatVersion: 2
+guid: c9a47661c75c64e48861ed174e267b72
+timeCreated: 1465443388
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OutsideItem_0
+    21300002: OutsideItem_1
+    21300004: OutsideItem_2
+    21300006: OutsideItem_3
+    21300008: OutsideItem_4
+    21300010: OutsideItem_5
+    21300012: OutsideItem_6
+    21300014: OutsideItem_7
+    21300016: OutsideItem_8
+    21300018: OutsideItem_9
+    21300020: OutsideItem_10
+    21300022: OutsideItem_11
+    21300024: OutsideItem_12
+    21300026: OutsideItem_13
+    21300028: OutsideItem_14
+    21300030: OutsideItem_15
+    21300032: OutsideItem_16
+    21300034: OutsideItem_17
+    21300036: OutsideItem_18
+    21300038: OutsideItem_19
+    21300040: OutsideItem_20
+    21300042: OutsideItem_21
+    21300044: OutsideItem_22
+    21300046: OutsideItem_23
+    21300048: OutsideItem_24
+    21300050: OutsideItem_25
+    21300052: OutsideItem_26
+    21300054: OutsideItem_27
+    21300056: OutsideItem_28
+    21300058: OutsideItem_29
+    21300060: OutsideItem_30
+    21300062: OutsideItem_31
+    21300064: OutsideItem_32
+    21300066: OutsideItem_33
+    21300068: OutsideItem_34
+    21300070: OutsideItem_35
+    21300072: OutsideItem_36
+    21300074: OutsideItem_37
+    21300076: OutsideItem_38
+    21300078: OutsideItem_39
+    21300080: OutsideItem_40
+    21300082: OutsideItem_41
+    21300084: OutsideItem_42
+    21300086: OutsideItem_43
+    21300088: OutsideItem_44
+    21300090: OutsideItem_45
+    21300092: OutsideItem_46
+    21300094: OutsideItem_47
+    21300096: OutsideItem_48
+    21300098: OutsideItem_49
+    21300100: OutsideItem_50
+    21300102: OutsideItem_51
+    21300104: OutsideItem_52
+    21300106: OutsideItem_53
+    21300108: OutsideItem_54
+    21300110: OutsideItem_55
+    21300112: OutsideItem_56
+    21300114: OutsideItem_57
+    21300116: OutsideItem_58
+    21300118: OutsideItem_59
+    21300120: OutsideItem_60
+    21300122: OutsideItem_61
+    21300124: OutsideItem_62
+    21300126: OutsideItem_63
+    21300128: OutsideItem_64
+    21300130: OutsideItem_65
+    21300132: OutsideItem_66
+    21300134: OutsideItem_67
+    21300136: OutsideItem_68
+    21300138: OutsideItem_69
+    21300140: OutsideItem_70
+    21300142: OutsideItem_71
+    21300144: OutsideItem_72
+    21300146: OutsideItem_73
+    21300148: OutsideItem_74
+    21300150: OutsideItem_75
+    21300152: OutsideItem_76
+    21300154: OutsideItem_77
+    21300156: OutsideItem_78
+    21300158: OutsideItem_79
+    21300160: OutsideItem_80
+    21300162: OutsideItem_81
+    21300164: OutsideItem_82
+    21300166: OutsideItem_83
+    21300168: OutsideItem_84
+    21300170: OutsideItem_85
+    21300172: OutsideItem_86
+    21300174: OutsideItem_87
+    21300176: OutsideItem_88
+    21300178: OutsideItem_89
+    21300180: OutsideItem_90
+    21300182: OutsideItem_91
+    21300184: OutsideItem_92
+    21300186: OutsideItem_93
+    21300188: OutsideItem_94
+    21300190: OutsideItem_95
+    21300192: OutsideItem_96
+    21300194: OutsideItem_97
+    21300196: OutsideItem_98
+    21300198: OutsideItem_99
+    21300200: OutsideItem_100
+    21300202: OutsideItem_101
+    21300204: OutsideItem_102
+    21300206: OutsideItem_103
+    21300208: OutsideItem_104
+    21300210: OutsideItem_105
+    21300212: OutsideItem_106
+    21300214: OutsideItem_107
+    21300216: OutsideItem_108
+    21300218: OutsideItem_109
+    21300220: OutsideItem_110
+    21300222: OutsideItem_111
+    21300224: OutsideItem_112
+    21300226: OutsideItem_113
+    21300228: OutsideItem_114
+    21300230: OutsideItem_115
+    21300232: OutsideItem_116
+    21300234: OutsideItem_117
+    21300236: OutsideItem_118
+    21300238: OutsideItem_119
+    21300240: OutsideItem_120
+    21300242: OutsideItem_121
+    21300244: OutsideItem_122
+    21300246: OutsideItem_123
+    21300248: OutsideItem_124
+    21300250: OutsideItem_125
+    21300252: OutsideItem_126
+    21300254: OutsideItem_127
+    21300256: OutsideItem_128
+    21300258: OutsideItem_129
+    21300260: OutsideItem_130
+    21300262: OutsideItem_131
+    21300264: OutsideItem_132
+    21300266: OutsideItem_133
+    21300268: OutsideItem_134
+    21300270: OutsideItem_135
+    21300272: OutsideItem_136
+    21300274: OutsideItem_137
+    21300276: OutsideItem_138
+    21300278: OutsideItem_139
+    21300280: OutsideItem_140
+    21300282: OutsideItem_141
+    21300284: OutsideItem_142
+    21300286: OutsideItem_143
+    21300288: OutsideItem_144
+    21300290: OutsideItem_145
+    21300292: OutsideItem_146
+    21300294: OutsideItem_147
+    21300296: OutsideItem_148
+    21300298: OutsideItem_149
+    21300300: OutsideItem_150
+    21300302: OutsideItem_151
+    21300304: OutsideItem_152
+    21300306: OutsideItem_153
+    21300308: OutsideItem_154
+    21300310: OutsideItem_155
+    21300312: OutsideItem_156
+    21300314: OutsideItem_157
+    21300316: OutsideItem_158
+    21300318: OutsideItem_159
+    21300320: OutsideItem_160
+    21300322: OutsideItem_161
+    21300324: OutsideItem_162
+    21300326: OutsideItem_163
+    21300328: OutsideItem_164
+    21300330: OutsideItem_165
+    21300332: OutsideItem_166
+    21300334: OutsideItem_167
+    21300336: OutsideItem_168
+    21300338: OutsideItem_169
+    21300340: OutsideItem_170
+    21300342: OutsideItem_171
+    21300344: OutsideItem_172
+    21300346: OutsideItem_173
+    21300348: OutsideItem_174
+    21300350: OutsideItem_175
+    21300352: OutsideItem_176
+    21300354: OutsideItem_177
+    21300356: OutsideItem_178
+    21300358: OutsideItem_179
+    21300360: OutsideItem_180
+    21300362: OutsideItem_181
+    21300364: OutsideItem_182
+    21300366: OutsideItem_183
+    21300368: OutsideItem_184
+    21300370: OutsideItem_185
+    21300372: OutsideItem_186
+    21300374: OutsideItem_187
+    21300376: OutsideItem_188
+    21300378: OutsideItem_189
+    21300380: OutsideItem_190
+    21300382: OutsideItem_191
+    21300384: OutsideItem_192
+    21300386: OutsideItem_193
+    21300388: OutsideItem_194
+    21300390: OutsideItem_195
+    21300392: OutsideItem_196
+    21300394: OutsideItem_197
+    21300396: OutsideItem_198
+    21300398: OutsideItem_199
+    21300400: OutsideItem_200
+    21300402: OutsideItem_201
+    21300404: OutsideItem_202
+    21300406: OutsideItem_203
+    21300408: OutsideItem_204
+    21300410: OutsideItem_205
+    21300412: OutsideItem_206
+    21300414: OutsideItem_207
+    21300416: OutsideItem_208
+    21300418: OutsideItem_209
+    21300420: OutsideItem_210
+    21300422: OutsideItem_211
+    21300424: OutsideItem_212
+    21300426: OutsideItem_213
+    21300428: OutsideItem_214
+    21300430: OutsideItem_215
+    21300432: OutsideItem_216
+    21300434: OutsideItem_217
+    21300436: OutsideItem_218
+    21300438: OutsideItem_219
+    21300440: OutsideItem_220
+    21300442: OutsideItem_221
+    21300444: OutsideItem_222
+    21300446: OutsideItem_223
+    21300448: OutsideItem_224
+    21300450: OutsideItem_225
+    21300452: OutsideItem_226
+    21300454: OutsideItem_227
+    21300456: OutsideItem_228
+    21300458: OutsideItem_229
+    21300460: OutsideItem_230
+    21300462: OutsideItem_231
+    21300464: OutsideItem_232
+    21300466: OutsideItem_233
+    21300468: OutsideItem_234
+    21300470: OutsideItem_235
+    21300472: OutsideItem_236
+    21300474: OutsideItem_237
+    21300476: OutsideItem_238
+    21300478: OutsideItem_239
+    21300480: OutsideItem_240
+    21300482: OutsideItem_241
+    21300484: OutsideItem_242
+    21300486: OutsideItem_243
+    21300488: OutsideItem_244
+    21300490: OutsideItem_245
+    21300492: OutsideItem_246
+    21300494: OutsideItem_247
+    21300496: OutsideItem_248
+    21300498: OutsideItem_249
+    21300500: OutsideItem_250
+    21300502: OutsideItem_251
+    21300504: OutsideItem_252
+    21300506: OutsideItem_253
+    21300508: OutsideItem_254
+    21300510: OutsideItem_255
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OutsideItem_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -8, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: -14}
+        - {x: 18, y: -2}
+    - name: OutsideItem_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -8, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: -14}
+        - {x: 18, y: -2}
+    - name: OutsideItem_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -8, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: -14}
+        - {x: 18, y: -2}
+    - name: OutsideItem_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 8}
+        - {x: -23, y: 1}
+        - {x: -23, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: -17}
+        - {x: 22, y: 1}
+        - {x: 15, y: 8}
+    - name: OutsideItem_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 0}
+        - {x: -24, y: -24}
+        - {x: 11, y: -24}
+        - {x: 11, y: -2}
+        - {x: 8, y: 1}
+        - {x: -23, y: 1}
+    - name: OutsideItem_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 23}
+        - {x: -24, y: -24}
+        - {x: 11, y: -24}
+        - {x: 11, y: 21}
+        - {x: 8, y: 24}
+        - {x: -23, y: 24}
+    - name: OutsideItem_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 21}
+        - {x: -10, y: -19}
+        - {x: -10, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 21}
+    - name: OutsideItem_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -24, y: -24}
+        - {x: 5, y: -24}
+        - {x: 6, y: -20}
+        - {x: 6, y: -10}
+        - {x: -16, y: 22}
+    - name: OutsideItem_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -23, y: -4}
+        - {x: 24, y: -4}
+        - {x: 24, y: 24}
+    - name: OutsideItem_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -23, y: -4}
+        - {x: 24, y: -4}
+        - {x: 24, y: 23}
+    - name: OutsideItem_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: 7, y: 15}
+        - {x: -6, y: 15}
+        - {x: -15, y: 6}
+        - {x: -15, y: -11}
+        - {x: -9, y: -21}
+        - {x: 10, y: -21}
+        - {x: 14, y: -19}
+        - {x: 15, y: -5}
+        - {x: 15, y: 9}
+    - name: OutsideItem_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 6}
+        - {x: -12, y: 2}
+        - {x: -12, y: -10}
+        - {x: -11, y: -19}
+        - {x: -10, y: -21}
+        - {x: 14, y: -21}
+        - {x: 14, y: 1}
+        - {x: 7, y: 6}
+    - name: OutsideItem_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 13}
+        - {x: -24, y: 11}
+        - {x: -24, y: -20}
+        - {x: -22, y: -21}
+        - {x: 21, y: -21}
+        - {x: 24, y: -20}
+        - {x: 24, y: 13}
+    - name: OutsideItem_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -21}
+        - {x: 24, y: -21}
+        - {x: 24, y: 14}
+    - name: OutsideItem_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 15}
+        - {x: -9, y: -20}
+        - {x: -9, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 20}
+        - {x: 23, y: 20}
+    - name: OutsideItem_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: 6, y: -24}
+        - {x: 6, y: -13}
+        - {x: 4, y: -1}
+        - {x: -19, y: 19}
+        - {x: -24, y: 21}
+    - name: OutsideItem_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 21}
+        - {x: -10, y: -19}
+        - {x: -10, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 21}
+    - name: OutsideItem_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -24, y: -24}
+        - {x: 5, y: -24}
+        - {x: 6, y: -20}
+        - {x: 6, y: -10}
+        - {x: -16, y: 22}
+    - name: OutsideItem_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: -11}
+        - {x: -5, y: -24}
+        - {x: 10, y: -24}
+        - {x: 12, y: -22}
+        - {x: 12, y: -5}
+        - {x: 7, y: 17}
+    - name: OutsideItem_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 14}
+        - {x: -12, y: 1}
+        - {x: -9, y: -2}
+        - {x: 11, y: -2}
+        - {x: 13, y: 0}
+        - {x: 13, y: 11}
+        - {x: 12, y: 14}
+    - name: OutsideItem_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 20}
+        - {x: -10, y: 20}
+        - {x: -14, y: 19}
+        - {x: -21, y: 6}
+        - {x: -21, y: -24}
+        - {x: 20, y: -24}
+        - {x: 21, y: -23}
+        - {x: 21, y: 16}
+    - name: OutsideItem_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 20}
+        - {x: -10, y: 20}
+        - {x: -14, y: 19}
+        - {x: -21, y: 6}
+        - {x: -21, y: -24}
+        - {x: 20, y: -24}
+        - {x: 21, y: -23}
+        - {x: 21, y: 16}
+    - name: OutsideItem_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -24}
+        - {x: 15, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+    - name: OutsideItem_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -15, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -24}
+        - {x: 18, y: 11}
+        - {x: 16, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+    - name: OutsideItem_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -24}
+        - {x: 20, y: 10}
+        - {x: 18, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+    - name: OutsideItem_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -4}
+        - {x: 16, y: 17}
+        - {x: 8, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: -15}
+    - name: OutsideItem_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -13, y: 22}
+        - {x: -13, y: 12}
+        - {x: -13, y: 14}
+        - {x: -19, y: 20}
+        - {x: -24, y: 22}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -10}
+        - {x: -4, y: -12}
+        - {x: -3, y: -15}
+        - {x: 8, y: -24}
+        - {x: 16, y: -24}
+        - {x: 14, y: -16}
+        - {x: 12, y: -10}
+      - - {x: 12, y: 24}
+        - {x: 6, y: 19}
+        - {x: 6, y: -4}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+    - name: OutsideItem_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -2}
+        - {x: -7, y: 22}
+        - {x: -21, y: 22}
+        - {x: -24, y: 21}
+        - {x: -24, y: -24}
+        - {x: -15, y: -24}
+        - {x: -7, y: -9}
+        - {x: -7, y: -4}
+        - {x: -9, y: -4}
+      - - {x: 3, y: 1}
+        - {x: 0, y: 1}
+        - {x: -16, y: -15}
+        - {x: -16, y: -24}
+        - {x: -3, y: -24}
+        - {x: 0, y: -21}
+        - {x: 4, y: -13}
+        - {x: 4, y: -1}
+    - name: OutsideItem_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -2}
+        - {x: -7, y: 22}
+        - {x: -21, y: 22}
+        - {x: -24, y: 21}
+        - {x: -24, y: -24}
+        - {x: -15, y: -24}
+        - {x: -7, y: -9}
+        - {x: -7, y: -4}
+        - {x: -9, y: -4}
+      - - {x: 3, y: 1}
+        - {x: 0, y: 1}
+        - {x: -16, y: -15}
+        - {x: -16, y: -24}
+        - {x: -3, y: -24}
+        - {x: 0, y: -21}
+        - {x: 4, y: -13}
+        - {x: 4, y: -1}
+    - name: OutsideItem_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -12}
+        - {x: -4, y: -15}
+        - {x: 7, y: -24}
+        - {x: 15, y: -24}
+        - {x: 13, y: -16}
+        - {x: 11, y: -10}
+        - {x: -3, y: -10}
+      - - {x: 5, y: -4}
+        - {x: 17, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 11, y: 24}
+        - {x: 5, y: 19}
+    - name: OutsideItem_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_35
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+    - name: OutsideItem_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -13, y: 22}
+        - {x: -13, y: 12}
+        - {x: -13, y: 14}
+        - {x: -19, y: 20}
+        - {x: -24, y: 22}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_37
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -4}
+        - {x: 16, y: 17}
+        - {x: 8, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 21, y: -24}
+        - {x: 21, y: -15}
+    - name: OutsideItem_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -22, y: 10}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 9}
+        - {x: -9, y: 16}
+    - name: OutsideItem_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -24, y: 12}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 12}
+        - {x: 21, y: 16}
+    - name: OutsideItem_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 17}
+        - {x: -24, y: -4}
+        - {x: -23, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 18}
+        - {x: -20, y: 18}
+    - name: OutsideItem_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 18}
+        - {x: -24, y: 18}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 24, y: -5}
+        - {x: 24, y: 16}
+    - name: OutsideItem_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -22, y: 10}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 9}
+        - {x: -9, y: 16}
+    - name: OutsideItem_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -24, y: 12}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 12}
+        - {x: 21, y: 16}
+    - name: OutsideItem_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 17}
+        - {x: -24, y: 16}
+        - {x: -24, y: -4}
+        - {x: -23, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -14}
+        - {x: 24, y: 17}
+    - name: OutsideItem_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 15}
+        - {x: -22, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 15}
+    - name: OutsideItem_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -24, y: 15}
+        - {x: -24, y: 2}
+        - {x: -20, y: -6}
+        - {x: -12, y: -18}
+        - {x: -6, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 12, y: -24}
+        - {x: 24, y: -17}
+        - {x: 24, y: 20}
+        - {x: 22, y: 24}
+    - name: OutsideItem_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 3, y: 16}
+        - {x: -13, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -1}
+        - {x: 5, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -10}
+        - {x: 10, y: -1}
+        - {x: 10, y: 7}
+        - {x: 8, y: 9}
+        - {x: 1, y: 11}
+        - {x: -4, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -12, y: -24}
+        - {x: -5, y: -18}
+        - {x: 8, y: -15}
+        - {x: 10, y: -13}
+    - name: OutsideItem_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -10}
+        - {x: 6, y: -4}
+        - {x: 17, y: -16}
+        - {x: 18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 8, y: 24}
+        - {x: 1, y: 20}
+        - {x: -3, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 16, y: -24}
+        - {x: 13, y: -12}
+    - name: OutsideItem_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6}
+        - {x: -9, y: -4}
+        - {x: -11, y: -4}
+        - {x: -12, y: -2}
+        - {x: -2, y: -4}
+        - {x: -13, y: -16}
+        - {x: -16, y: -17}
+        - {x: -16, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 8, y: 24}
+        - {x: 8, y: 22}
+        - {x: 13, y: 16}
+        - {x: 6, y: 17}
+        - {x: 4, y: 14}
+        - {x: 7, y: 11}
+        - {x: 8, y: 11}
+        - {x: 6, y: 11}
+        - {x: 1, y: 15}
+        - {x: -11, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -24}
+        - {x: -18, y: -24}
+        - {x: -18, y: -19}
+        - {x: -14, y: -16}
+        - {x: -6, y: -8}
+    - name: OutsideItem_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -24, y: 15}
+        - {x: -24, y: -7}
+        - {x: -10, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_55
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_57
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 15, y: -24}
+        - {x: 24, y: -15}
+        - {x: 24, y: 20}
+        - {x: 19, y: 24}
+    - name: OutsideItem_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 0}
+        - {x: 22, y: 24}
+    - name: OutsideItem_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 0}
+        - {x: 22, y: 24}
+    - name: OutsideItem_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 0}
+        - {x: 22, y: 24}
+    - name: OutsideItem_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 6}
+        - {x: 23, y: 24}
+    - name: OutsideItem_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 6}
+        - {x: 23, y: 24}
+    - name: OutsideItem_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: -14, y: -12}
+        - {x: -14, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_67
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -11}
+        - {x: 10, y: -8}
+        - {x: -11, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 10, y: -23}
+        - {x: 22, y: -19}
+        - {x: 22, y: -15}
+    - name: OutsideItem_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -7, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 13, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: 15, y: 17}
+        - {x: -6, y: -11}
+        - {x: -6, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_71
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -4, y: -23}
+        - {x: 8, y: -19}
+        - {x: 8, y: 15}
+    - name: OutsideItem_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 3, y: 16}
+        - {x: -13, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -1}
+        - {x: 5, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      - - {x: -9, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -4, y: -23}
+        - {x: 8, y: -19}
+        - {x: 8, y: 15}
+    - name: OutsideItem_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_75
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_76
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_77
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 20, y: -24}
+        - {x: 22, y: -19}
+        - {x: 22, y: -5}
+        - {x: 16, y: 17}
+    - name: OutsideItem_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 13}
+        - {x: 21, y: 17}
+        - {x: 3, y: 24}
+        - {x: -7, y: 24}
+        - {x: -21, y: 15}
+        - {x: -23, y: 13}
+        - {x: -23, y: -23}
+        - {x: -19, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -23}
+        - {x: 19, y: -20}
+        - {x: 22, y: -11}
+    - name: OutsideItem_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -23, y: 15}
+        - {x: -23, y: -16}
+        - {x: -19, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: OutsideItem_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 24}
+        - {x: -18, y: 16}
+        - {x: -18, y: -5}
+        - {x: -16, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 24}
+    - name: OutsideItem_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -22, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 24}
+    - name: OutsideItem_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -22, y: 22}
+        - {x: -22, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 17}
+        - {x: 14, y: 24}
+    - name: OutsideItem_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 24}
+        - {x: -8, y: 24}
+        - {x: -22, y: 16}
+        - {x: -22, y: -15}
+        - {x: -9, y: -24}
+        - {x: 17, y: -24}
+        - {x: 23, y: -16}
+        - {x: 23, y: 17}
+        - {x: 22, y: 18}
+    - name: OutsideItem_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -22, y: 16}
+        - {x: -22, y: -7}
+        - {x: -20, y: -18}
+        - {x: -13, y: -24}
+        - {x: 7, y: -24}
+        - {x: 16, y: -21}
+        - {x: 23, y: -13}
+        - {x: 23, y: 16}
+        - {x: 5, y: 24}
+    - name: OutsideItem_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -22, y: 16}
+        - {x: -22, y: -12}
+        - {x: -18, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 22}
+        - {x: 14, y: 24}
+    - name: OutsideItem_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -8, y: 19}
+        - {x: -11, y: 8}
+        - {x: -11, y: -13}
+        - {x: -5, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 24}
+    - name: OutsideItem_87
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 24}
+    - name: OutsideItem_88
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -11, y: 12}
+        - {x: -11, y: -13}
+        - {x: -5, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 24}
+    - name: OutsideItem_89
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 11}
+        - {x: 12, y: 22}
+    - name: OutsideItem_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 24}
+        - {x: -10, y: 24}
+        - {x: -13, y: 23}
+        - {x: -17, y: 11}
+        - {x: -17, y: 4}
+        - {x: -16, y: 2}
+        - {x: -5, y: -17}
+        - {x: -2, y: -19}
+        - {x: 4, y: -19}
+        - {x: 13, y: -17}
+        - {x: 16, y: -12}
+        - {x: 16, y: -1}
+        - {x: 15, y: 7}
+    - name: OutsideItem_91
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 24}
+        - {x: -10, y: 24}
+        - {x: -13, y: 23}
+        - {x: -17, y: 11}
+        - {x: -17, y: 4}
+        - {x: -16, y: 2}
+        - {x: -5, y: -17}
+        - {x: -2, y: -19}
+        - {x: 4, y: -19}
+        - {x: 13, y: -17}
+        - {x: 16, y: -12}
+        - {x: 16, y: -1}
+        - {x: 15, y: 7}
+    - name: OutsideItem_92
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -8}
+        - {x: -18, y: -24}
+        - {x: -1, y: -24}
+        - {x: -1, y: 22}
+        - {x: -5, y: 24}
+      - - {x: 12, y: -17}
+        - {x: 5, y: -22}
+        - {x: 5, y: -24}
+        - {x: 18, y: -24}
+        - {x: 19, y: -21}
+        - {x: 19, y: -19}
+        - {x: 16, y: -17}
+    - name: OutsideItem_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 2}
+        - {x: -3, y: 2}
+        - {x: -7, y: 0}
+        - {x: -7, y: -14}
+        - {x: 4, y: -24}
+        - {x: 17, y: -24}
+        - {x: 19, y: -22}
+        - {x: 19, y: -18}
+        - {x: 10, y: -1}
+    - name: OutsideItem_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -24, y: 15}
+        - {x: -24, y: 2}
+        - {x: -20, y: -6}
+        - {x: -12, y: -18}
+        - {x: -6, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_95
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_96
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_97
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 12, y: -24}
+        - {x: 24, y: -17}
+        - {x: 24, y: 20}
+        - {x: 22, y: 24}
+    - name: OutsideItem_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -23, y: 15}
+        - {x: -23, y: -16}
+        - {x: -19, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: OutsideItem_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -23, y: 15}
+        - {x: -23, y: -16}
+        - {x: -19, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: OutsideItem_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -22, y: 10}
+        - {x: -22, y: -9}
+        - {x: -16, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: -23}
+        - {x: 21, y: 20}
+        - {x: 11, y: 24}
+    - name: OutsideItem_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -17, y: -22}
+        - {x: -17, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -23}
+        - {x: 19, y: -20}
+        - {x: 6, y: 24}
+    - name: OutsideItem_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 24}
+        - {x: -22, y: 24}
+        - {x: -22, y: 18}
+        - {x: -20, y: 16}
+        - {x: -17, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -23}
+        - {x: 19, y: -20}
+        - {x: 23, y: 18}
+    - name: OutsideItem_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -17, y: -22}
+        - {x: -17, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -23}
+        - {x: 19, y: -20}
+        - {x: 6, y: 24}
+    - name: OutsideItem_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -17, y: -22}
+        - {x: -17, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -23}
+        - {x: 19, y: -20}
+        - {x: 6, y: 24}
+    - name: OutsideItem_105
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: 16}
+        - {x: -15, y: 13}
+        - {x: -18, y: -19}
+        - {x: -18, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -23}
+        - {x: 23, y: 15}
+        - {x: 23, y: 24}
+    - name: OutsideItem_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -12, y: 23}
+        - {x: -12, y: -14}
+        - {x: -9, y: -17}
+        - {x: 24, y: -17}
+        - {x: 24, y: 24}
+    - name: OutsideItem_107
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -17}
+        - {x: 8, y: -17}
+        - {x: 12, y: -13}
+        - {x: 12, y: 23}
+        - {x: 11, y: 24}
+    - name: OutsideItem_108
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -12, y: 23}
+        - {x: -12, y: -14}
+        - {x: -9, y: -17}
+        - {x: 24, y: -17}
+        - {x: 24, y: 24}
+    - name: OutsideItem_109
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -17}
+        - {x: 8, y: -17}
+        - {x: 12, y: -13}
+        - {x: 12, y: 23}
+        - {x: 11, y: 24}
+    - name: OutsideItem_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -20}
+        - {x: -20, y: -24}
+        - {x: -3, y: -24}
+        - {x: -1, y: -23}
+        - {x: -1, y: -7}
+        - {x: -9, y: 21}
+        - {x: -11, y: 23}
+        - {x: -16, y: 23}
+        - {x: -24, y: 20}
+      - - {x: 10, y: 8}
+        - {x: -3, y: 0}
+        - {x: -3, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 4}
+        - {x: 18, y: 8}
+    - name: OutsideItem_111
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 24}
+        - {x: -24, y: -5}
+        - {x: -24, y: -24}
+        - {x: 21, y: -24}
+        - {x: 24, y: -7}
+        - {x: 24, y: 24}
+      - - {x: -24, y: -2}
+        - {x: -24, y: -8}
+        - {x: -22, y: -8}
+        - {x: -20, y: -6}
+        - {x: -20, y: -5}
+        - {x: -23, y: -2}
+    - name: OutsideItem_112
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 20}
+        - {x: -24, y: -24}
+        - {x: 11, y: -24}
+        - {x: 20, y: -19}
+        - {x: 20, y: 20}
+        - {x: 19, y: 24}
+    - name: OutsideItem_113
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 21, y: 20}
+        - {x: 15, y: 24}
+        - {x: -2, y: 24}
+        - {x: -14, y: 20}
+        - {x: -20, y: 14}
+        - {x: -24, y: 8}
+        - {x: -24, y: -10}
+        - {x: -22, y: -16}
+        - {x: -11, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 9}
+    - name: OutsideItem_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: -14, y: -12}
+        - {x: -14, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_115
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -7, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_116
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 13, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_117
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -11}
+        - {x: 10, y: -8}
+        - {x: -11, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 10, y: -23}
+        - {x: 22, y: -19}
+        - {x: 22, y: -15}
+    - name: OutsideItem_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -18}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 18}
+        - {x: 7, y: 24}
+    - name: OutsideItem_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 19}
+        - {x: 8, y: 24}
+    - name: OutsideItem_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 21}
+        - {x: 10, y: 24}
+    - name: OutsideItem_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 20}
+        - {x: -21, y: 20}
+        - {x: -24, y: 19}
+    - name: OutsideItem_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 20}
+        - {x: -21, y: 20}
+        - {x: -24, y: 19}
+    - name: OutsideItem_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -15, y: 15}
+        - {x: -19, y: 10}
+        - {x: -19, y: -10}
+        - {x: -12, y: -14}
+        - {x: 16, y: -14}
+        - {x: 21, y: -3}
+        - {x: 21, y: 12}
+        - {x: 18, y: 17}
+    - name: OutsideItem_129
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -19, y: 11}
+        - {x: -19, y: -10}
+        - {x: -12, y: -14}
+        - {x: 16, y: -14}
+        - {x: 21, y: -3}
+        - {x: 21, y: 11}
+        - {x: 16, y: 16}
+    - name: OutsideItem_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 20}
+        - {x: -20, y: 20}
+        - {x: -22, y: 15}
+        - {x: -22, y: 10}
+        - {x: -19, y: -2}
+        - {x: -14, y: -5}
+        - {x: -12, y: -3}
+        - {x: -7, y: 3}
+        - {x: -3, y: 0}
+        - {x: -1, y: 0}
+        - {x: -8, y: 0}
+        - {x: -14, y: -7}
+        - {x: -13, y: -24}
+        - {x: 21, y: -24}
+        - {x: 24, y: -19}
+        - {x: 24, y: 3}
+        - {x: 21, y: 13}
+    - name: OutsideItem_131
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 4}
+        - {x: -14, y: -2}
+        - {x: -14, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 2}
+        - {x: 23, y: 4}
+      - - {x: -18, y: 20}
+        - {x: -22, y: 15}
+        - {x: -22, y: 6}
+        - {x: -20, y: -2}
+        - {x: -17, y: -3}
+        - {x: -6, y: -3}
+        - {x: 4, y: 3}
+        - {x: 4, y: 19}
+        - {x: 1, y: 20}
+    - name: OutsideItem_132
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -8}
+        - {x: -18, y: -24}
+        - {x: -1, y: -24}
+        - {x: -1, y: 22}
+        - {x: -5, y: 24}
+      - - {x: 12, y: -17}
+        - {x: 5, y: -22}
+        - {x: 5, y: -24}
+        - {x: 18, y: -24}
+        - {x: 19, y: -21}
+        - {x: 19, y: -19}
+        - {x: 16, y: -17}
+    - name: OutsideItem_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 2}
+        - {x: -3, y: 2}
+        - {x: -7, y: 0}
+        - {x: -7, y: -14}
+        - {x: 4, y: -24}
+        - {x: 17, y: -24}
+        - {x: 19, y: -22}
+        - {x: 19, y: -18}
+        - {x: 10, y: -1}
+    - name: OutsideItem_134
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 24}
+        - {x: -14, y: -12}
+        - {x: -14, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_135
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -11}
+        - {x: 10, y: -8}
+        - {x: -11, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 10, y: -23}
+        - {x: 22, y: -19}
+        - {x: 22, y: -15}
+    - name: OutsideItem_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21}
+        - {x: -24, y: 20}
+        - {x: -24, y: 1}
+        - {x: -20, y: -5}
+        - {x: 20, y: -5}
+        - {x: 24, y: -1}
+        - {x: 24, y: 20}
+        - {x: 23, y: 21}
+    - name: OutsideItem_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -24, y: 18}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 18}
+        - {x: 4, y: 24}
+    - name: OutsideItem_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -24}
+        - {x: -9, y: -24}
+        - {x: -9, y: 22}
+        - {x: -14, y: 24}
+      - - {x: 15, y: 24}
+        - {x: 11, y: 20}
+        - {x: 11, y: -8}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 23}
+        - {x: 22, y: 24}
+    - name: OutsideItem_143
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24}
+        - {x: -5, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 18}
+        - {x: 21, y: 20}
+    - name: OutsideItem_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -19, y: 17}
+        - {x: -19, y: -23}
+        - {x: -17, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 14}
+        - {x: 20, y: 24}
+    - name: OutsideItem_145
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -11, y: -24}
+        - {x: 15, y: -24}
+        - {x: 15, y: 13}
+        - {x: 10, y: 24}
+    - name: OutsideItem_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 17}
+        - {x: -20, y: 7}
+        - {x: -20, y: -22}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 19}
+        - {x: -15, y: 19}
+    - name: OutsideItem_147
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19}
+        - {x: -24, y: 19}
+        - {x: -24, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: 8}
+        - {x: 20, y: 17}
+    - name: OutsideItem_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -20}
+        - {x: -20, y: -24}
+        - {x: -3, y: -24}
+        - {x: -1, y: -23}
+        - {x: -1, y: -7}
+        - {x: -9, y: 21}
+        - {x: -11, y: 23}
+        - {x: -16, y: 23}
+        - {x: -24, y: 20}
+      - - {x: 10, y: 8}
+        - {x: -3, y: 0}
+        - {x: -3, y: -24}
+        - {x: 23, y: -24}
+        - {x: 24, y: -23}
+        - {x: 24, y: 4}
+        - {x: 18, y: 8}
+    - name: OutsideItem_149
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 24}
+        - {x: -24, y: -5}
+        - {x: -24, y: -24}
+        - {x: 21, y: -24}
+        - {x: 24, y: -7}
+        - {x: 24, y: 24}
+      - - {x: -24, y: -2}
+        - {x: -24, y: -8}
+        - {x: -22, y: -8}
+        - {x: -20, y: -6}
+        - {x: -20, y: -5}
+        - {x: -23, y: -2}
+    - name: OutsideItem_150
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 20}
+        - {x: -24, y: -24}
+        - {x: 11, y: -24}
+        - {x: 20, y: -19}
+        - {x: 20, y: 20}
+        - {x: 19, y: 24}
+    - name: OutsideItem_151
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 21, y: 20}
+        - {x: 15, y: 24}
+        - {x: -2, y: 24}
+        - {x: -14, y: 20}
+        - {x: -20, y: 14}
+        - {x: -24, y: 8}
+        - {x: -24, y: -10}
+        - {x: -22, y: -16}
+        - {x: -11, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 9}
+    - name: OutsideItem_152
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -10}
+        - {x: -4, y: -12}
+        - {x: -3, y: -15}
+        - {x: 8, y: -24}
+        - {x: 16, y: -24}
+        - {x: 14, y: -16}
+        - {x: 12, y: -10}
+      - - {x: 12, y: 24}
+        - {x: 6, y: 19}
+        - {x: 6, y: -4}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+    - name: OutsideItem_153
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -2}
+        - {x: -7, y: 22}
+        - {x: -21, y: 22}
+        - {x: -24, y: 21}
+        - {x: -24, y: -24}
+        - {x: -15, y: -24}
+        - {x: -7, y: -9}
+        - {x: -7, y: -4}
+        - {x: -9, y: -4}
+      - - {x: 3, y: 1}
+        - {x: 0, y: 1}
+        - {x: -16, y: -15}
+        - {x: -16, y: -24}
+        - {x: -3, y: -24}
+        - {x: 0, y: -21}
+        - {x: 4, y: -13}
+        - {x: 4, y: -1}
+    - name: OutsideItem_154
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -10}
+        - {x: -4, y: -12}
+        - {x: -3, y: -15}
+        - {x: 8, y: -24}
+        - {x: 16, y: -24}
+        - {x: 14, y: -16}
+        - {x: 12, y: -10}
+      - - {x: 12, y: 24}
+        - {x: 6, y: 19}
+        - {x: 6, y: -4}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 22}
+        - {x: 22, y: 24}
+    - name: OutsideItem_155
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -2}
+        - {x: -7, y: 22}
+        - {x: -21, y: 22}
+        - {x: -24, y: 21}
+        - {x: -24, y: -24}
+        - {x: -15, y: -24}
+        - {x: -7, y: -9}
+        - {x: -7, y: -4}
+        - {x: -9, y: -4}
+      - - {x: 3, y: 1}
+        - {x: 0, y: 1}
+        - {x: -16, y: -15}
+        - {x: -16, y: -24}
+        - {x: -3, y: -24}
+        - {x: 0, y: -21}
+        - {x: 4, y: -13}
+        - {x: 4, y: -1}
+    - name: OutsideItem_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -5}
+        - {x: 24, y: -5}
+        - {x: 24, y: 21}
+    - name: OutsideItem_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21}
+        - {x: -24, y: 20}
+        - {x: -24, y: 1}
+        - {x: -20, y: -5}
+        - {x: 20, y: -5}
+        - {x: 24, y: -1}
+        - {x: 24, y: 20}
+        - {x: 23, y: 21}
+    - name: OutsideItem_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 24}
+        - {x: -13, y: -24}
+        - {x: 3, y: -24}
+        - {x: 3, y: 3}
+        - {x: 2, y: 21}
+        - {x: -2, y: 24}
+    - name: OutsideItem_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: 5, y: 24}
+        - {x: -3, y: 24}
+        - {x: -9, y: 19}
+        - {x: -9, y: -4}
+        - {x: -3, y: -22}
+        - {x: 11, y: -22}
+        - {x: 13, y: -20}
+        - {x: 13, y: 6}
+    - name: OutsideItem_163
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 24}
+        - {x: -2, y: 21}
+        - {x: -2, y: -23}
+        - {x: -1, y: -24}
+        - {x: 15, y: -24}
+        - {x: 15, y: -4}
+        - {x: 13, y: 24}
+    - name: OutsideItem_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 24}
+        - {x: 7, y: 18}
+        - {x: -9, y: -3}
+        - {x: -15, y: -11}
+        - {x: -17, y: -15}
+        - {x: -17, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_165
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: -6}
+        - {x: -5, y: 24}
+    - name: OutsideItem_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 11}
+        - {x: -22, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 22}
+        - {x: 16, y: 24}
+        - {x: -16, y: 24}
+        - {x: -21, y: 20}
+    - name: OutsideItem_167
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -12}
+        - {x: 9, y: -14}
+        - {x: 9, y: -18}
+        - {x: 12, y: -21}
+        - {x: 18, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: -15}
+        - {x: 17, y: -12}
+      - - {x: -7, y: -3}
+        - {x: -9, y: -5}
+        - {x: -9, y: -9}
+        - {x: -6, y: -12}
+        - {x: 0, y: -12}
+        - {x: 2, y: -10}
+        - {x: 2, y: -6}
+        - {x: -1, y: -3}
+      - - {x: 14, y: 3}
+        - {x: 9, y: 1}
+        - {x: 9, y: -4}
+        - {x: 12, y: -8}
+        - {x: 19, y: -8}
+        - {x: 24, y: -6}
+        - {x: 24, y: -1}
+        - {x: 21, y: 3}
+      - - {x: -18, y: 5}
+        - {x: -23, y: 4}
+        - {x: -23, y: -2}
+        - {x: -21, y: -6}
+        - {x: -13, y: -6}
+        - {x: -8, y: -2}
+        - {x: -8, y: 0}
+        - {x: -12, y: 5}
+      - - {x: 8, y: 12}
+        - {x: 6, y: 10}
+        - {x: 6, y: 6}
+        - {x: 9, y: 3}
+        - {x: 15, y: 3}
+        - {x: 17, y: 5}
+        - {x: 17, y: 9}
+        - {x: 14, y: 12}
+      - - {x: -5, y: 20}
+        - {x: -10, y: 18}
+        - {x: -10, y: 13}
+        - {x: -7, y: 9}
+        - {x: 0, y: 9}
+        - {x: 5, y: 11}
+        - {x: 5, y: 16}
+        - {x: 2, y: 20}
+    - name: OutsideItem_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -12}
+        - {x: 9, y: -14}
+        - {x: 9, y: -18}
+        - {x: 12, y: -21}
+        - {x: 18, y: -21}
+        - {x: 20, y: -19}
+        - {x: 20, y: -15}
+        - {x: 17, y: -12}
+      - - {x: -7, y: -3}
+        - {x: -9, y: -5}
+        - {x: -9, y: -9}
+        - {x: -6, y: -12}
+        - {x: 0, y: -12}
+        - {x: 2, y: -10}
+        - {x: 2, y: -6}
+        - {x: -1, y: -3}
+      - - {x: 14, y: 3}
+        - {x: 9, y: 1}
+        - {x: 9, y: -4}
+        - {x: 12, y: -8}
+        - {x: 19, y: -8}
+        - {x: 24, y: -6}
+        - {x: 24, y: -1}
+        - {x: 21, y: 3}
+      - - {x: -18, y: 5}
+        - {x: -23, y: 4}
+        - {x: -23, y: -2}
+        - {x: -21, y: -6}
+        - {x: -13, y: -6}
+        - {x: -8, y: -2}
+        - {x: -8, y: 0}
+        - {x: -12, y: 5}
+      - - {x: 8, y: 12}
+        - {x: 6, y: 10}
+        - {x: 6, y: 6}
+        - {x: 9, y: 3}
+        - {x: 15, y: 3}
+        - {x: 17, y: 5}
+        - {x: 17, y: 9}
+        - {x: 14, y: 12}
+      - - {x: -5, y: 20}
+        - {x: -10, y: 18}
+        - {x: -10, y: 13}
+        - {x: -7, y: 9}
+        - {x: 0, y: 9}
+        - {x: 5, y: 11}
+        - {x: 5, y: 16}
+        - {x: 2, y: 20}
+    - name: OutsideItem_169
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 15}
+        - {x: -2, y: 15}
+        - {x: -18, y: 10}
+        - {x: -24, y: 2}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 1}
+        - {x: 14, y: 14}
+    - name: OutsideItem_170
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 24}
+        - {x: -24, y: 3}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 16}
+        - {x: 16, y: 24}
+    - name: OutsideItem_171
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 17}
+        - {x: -5, y: 17}
+        - {x: -22, y: 12}
+        - {x: -24, y: 6}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 4}
+        - {x: 20, y: 10}
+      - - {x: -21, y: 15}
+        - {x: -20, y: 12}
+        - {x: -17, y: 12}
+        - {x: -15, y: 14}
+        - {x: -16, y: 17}
+        - {x: -19, y: 17}
+    - name: OutsideItem_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 3, y: 16}
+        - {x: -13, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -1}
+        - {x: 5, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_173
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -10}
+        - {x: 6, y: -4}
+        - {x: 17, y: -16}
+        - {x: 18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 8, y: 24}
+        - {x: 1, y: 20}
+        - {x: -3, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 16, y: -24}
+        - {x: 13, y: -12}
+    - name: OutsideItem_174
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -6}
+        - {x: -9, y: -4}
+        - {x: -11, y: -4}
+        - {x: -2, y: -4}
+        - {x: -13, y: -16}
+        - {x: -16, y: -17}
+        - {x: -16, y: -24}
+        - {x: -2, y: -24}
+        - {x: 4, y: -14}
+        - {x: 4, y: -2}
+        - {x: 4, y: -8}
+        - {x: 5, y: -21}
+        - {x: 13, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 2, y: 15}
+        - {x: -11, y: 24}
+        - {x: -24, y: 18}
+        - {x: -24, y: -24}
+        - {x: -18, y: -24}
+        - {x: -18, y: -19}
+        - {x: -14, y: -16}
+        - {x: -6, y: -8}
+    - name: OutsideItem_175
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -10}
+        - {x: 10, y: -1}
+        - {x: 10, y: 7}
+        - {x: 8, y: 9}
+        - {x: 1, y: 11}
+        - {x: -4, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -12, y: -24}
+        - {x: -5, y: -18}
+        - {x: 8, y: -15}
+        - {x: 10, y: -13}
+    - name: OutsideItem_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 24}
+        - {x: -11, y: 17}
+        - {x: -11, y: 10}
+        - {x: -3, y: -24}
+        - {x: 4, y: -24}
+        - {x: 12, y: 8}
+        - {x: 12, y: 18}
+        - {x: 3, y: 24}
+    - name: OutsideItem_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -20, y: 21}
+        - {x: -20, y: 1}
+        - {x: -17, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 24}
+    - name: OutsideItem_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 24}
+    - name: OutsideItem_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24}
+        - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: 0}
+        - {x: 18, y: 0}
+        - {x: 22, y: 2}
+        - {x: 22, y: 21}
+    - name: OutsideItem_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -9, y: -24}
+        - {x: -9, y: 24}
+    - name: OutsideItem_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -18}
+        - {x: -19, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 18}
+        - {x: 9, y: 24}
+    - name: OutsideItem_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -9, y: -24}
+        - {x: -9, y: 24}
+      - - {x: 16, y: 24}
+        - {x: 12, y: 19}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 23}
+        - {x: 22, y: 24}
+    - name: OutsideItem_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 20}
+        - {x: 15, y: 24}
+    - name: OutsideItem_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -21, y: 22}
+        - {x: -21, y: 7}
+        - {x: 0, y: -22}
+        - {x: 3, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -6}
+        - {x: 24, y: 5}
+        - {x: 24, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 8, y: -24}
+        - {x: 11, y: -21}
+        - {x: 12, y: -18}
+        - {x: 6, y: -14}
+    - name: OutsideItem_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 22}
+        - {x: -24, y: 5}
+        - {x: -20, y: -1}
+        - {x: -17, y: -22}
+        - {x: -15, y: -24}
+        - {x: 23, y: -24}
+        - {x: 23, y: 19}
+        - {x: 22, y: 24}
+    - name: OutsideItem_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 16, y: -24}
+        - {x: 24, y: -22}
+        - {x: 24, y: 15}
+    - name: OutsideItem_188
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 15}
+        - {x: -18, y: 12}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+    - name: OutsideItem_189
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+    - name: OutsideItem_190
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 18, y: -24}
+        - {x: 18, y: 15}
+    - name: OutsideItem_191
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: -5, y: -7}
+        - {x: -6, y: -12}
+        - {x: -6, y: -19}
+        - {x: 6, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_192
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -11}
+        - {x: 4, y: -2}
+        - {x: 4, y: -8}
+        - {x: 9, y: -13}
+        - {x: 15, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 2, y: 15}
+        - {x: -6, y: 18}
+        - {x: -12, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 1, y: -24}
+        - {x: 8, y: -23}
+        - {x: 9, y: -14}
+        - {x: 5, y: -12}
+    - name: OutsideItem_193
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 11, y: 12}
+        - {x: -3, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_194
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 2, y: -24}
+        - {x: 8, y: -19}
+        - {x: 8, y: -2}
+        - {x: 3, y: 8}
+    - name: OutsideItem_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -24}
+        - {x: 4, y: 24}
+        - {x: -3, y: 24}
+        - {x: -3, y: -24}
+    - name: OutsideItem_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -20, y: 21}
+        - {x: -20, y: 1}
+        - {x: -17, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 24}
+    - name: OutsideItem_197
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 24}
+    - name: OutsideItem_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24}
+        - {x: -23, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: 0}
+        - {x: 18, y: 0}
+        - {x: 22, y: 2}
+        - {x: 22, y: 21}
+    - name: OutsideItem_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24}
+        - {x: 12, y: 19}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 23}
+        - {x: 22, y: 24}
+    - name: OutsideItem_200
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -18}
+        - {x: -22, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 18}
+        - {x: 7, y: 24}
+    - name: OutsideItem_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 19}
+        - {x: 8, y: 24}
+    - name: OutsideItem_202
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 21}
+        - {x: 10, y: 24}
+    - name: OutsideItem_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: -22}
+        - {x: -16, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_204
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_205
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 16, y: -23}
+        - {x: 18, y: -22}
+        - {x: 18, y: 24}
+    - name: OutsideItem_206
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 15}
+        - {x: -18, y: 12}
+        - {x: -18, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+    - name: OutsideItem_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+    - name: OutsideItem_208
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 18, y: -24}
+        - {x: 18, y: 15}
+    - name: OutsideItem_209
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 3, y: 16}
+        - {x: -13, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -1}
+        - {x: 5, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_210
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 11, y: 12}
+        - {x: -3, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_211
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -11}
+        - {x: 4, y: -2}
+        - {x: 4, y: -8}
+        - {x: 9, y: -13}
+        - {x: 15, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+        - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 2, y: 15}
+        - {x: -6, y: 18}
+        - {x: -12, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 1, y: -24}
+        - {x: 8, y: -23}
+        - {x: 9, y: -14}
+        - {x: 5, y: -12}
+    - name: OutsideItem_212
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -10}
+        - {x: 10, y: -1}
+        - {x: 10, y: 7}
+        - {x: 8, y: 9}
+        - {x: 1, y: 11}
+        - {x: -4, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -12, y: -24}
+        - {x: -5, y: -18}
+        - {x: 8, y: -15}
+        - {x: 10, y: -13}
+    - name: OutsideItem_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 24}
+        - {x: -7, y: 5}
+        - {x: -7, y: -19}
+        - {x: -3, y: -21}
+        - {x: 9, y: -21}
+        - {x: 12, y: -18}
+        - {x: 12, y: -8}
+        - {x: 4, y: 24}
+    - name: OutsideItem_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 9}
+        - {x: -16, y: 9}
+        - {x: -21, y: 8}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 22, y: -18}
+        - {x: 22, y: 1}
+    - name: OutsideItem_215
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -15, y: -24}
+        - {x: 22, y: -24}
+        - {x: 22, y: -7}
+        - {x: 13, y: 24}
+    - name: OutsideItem_216
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -24, y: 17}
+        - {x: -24, y: -18}
+        - {x: -21, y: -24}
+        - {x: 19, y: -24}
+        - {x: 24, y: -19}
+        - {x: 24, y: 18}
+        - {x: 17, y: 24}
+    - name: OutsideItem_217
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: -24, y: 4}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: -1}
+        - {x: 0, y: 24}
+    - name: OutsideItem_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -24}
+        - {x: -9, y: -24}
+        - {x: -9, y: 22}
+        - {x: -14, y: 24}
+    - name: OutsideItem_220
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: 11, y: 20}
+        - {x: 11, y: -8}
+        - {x: 12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 23}
+        - {x: 22, y: 24}
+    - name: OutsideItem_221
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 24}
+        - {x: -18, y: -22}
+        - {x: -16, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_222
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: 16, y: -23}
+        - {x: 18, y: -22}
+        - {x: 18, y: 24}
+    - name: OutsideItem_224
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 15}
+        - {x: 14, y: 12}
+        - {x: 14, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 14}
+        - {x: 23, y: 15}
+    - name: OutsideItem_225
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -24}
+        - {x: -14, y: -24}
+        - {x: -14, y: 12}
+        - {x: -17, y: 15}
+        - {x: -23, y: 15}
+    - name: OutsideItem_226
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 15}
+        - {x: 14, y: 12}
+        - {x: 14, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 14}
+        - {x: 23, y: 15}
+    - name: OutsideItem_227
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -24}
+        - {x: -14, y: -24}
+        - {x: -14, y: 12}
+        - {x: -17, y: 15}
+        - {x: -23, y: 15}
+    - name: OutsideItem_228
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: 15, y: 17}
+        - {x: -6, y: -11}
+        - {x: -6, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_229
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 24}
+        - {x: 9, y: 22}
+        - {x: 14, y: 16}
+        - {x: 7, y: 17}
+        - {x: 5, y: 14}
+        - {x: 8, y: 11}
+        - {x: 9, y: 11}
+        - {x: 7, y: 11}
+        - {x: 3, y: 16}
+        - {x: -13, y: 19}
+        - {x: -14, y: 18}
+        - {x: -14, y: -1}
+        - {x: 5, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+      - - {x: -9, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -4, y: -23}
+        - {x: 8, y: -19}
+        - {x: 8, y: 15}
+    - name: OutsideItem_230
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_231
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -4, y: -23}
+        - {x: 8, y: -19}
+        - {x: 8, y: 15}
+    - name: OutsideItem_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 15}
+        - {x: -4, y: 14}
+        - {x: -11, y: 7}
+        - {x: -11, y: 1}
+        - {x: -5, y: -12}
+        - {x: 10, y: -12}
+        - {x: 13, y: 0}
+        - {x: 13, y: 5}
+        - {x: 4, y: 15}
+    - name: OutsideItem_233
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 9}
+        - {x: -16, y: 9}
+        - {x: -21, y: 8}
+        - {x: -21, y: -24}
+        - {x: 18, y: -24}
+        - {x: 22, y: -18}
+        - {x: 22, y: 1}
+    - name: OutsideItem_234
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -22}
+        - {x: -12, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_235
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 17, y: -24}
+        - {x: 17, y: 24}
+    - name: OutsideItem_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -13}
+        - {x: -1, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -1, y: -24}
+        - {x: 24, y: -11}
+        - {x: 24, y: 24}
+    - name: OutsideItem_238
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+        - {x: -24, y: 15}
+    - name: OutsideItem_239
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+    - name: OutsideItem_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+        - {x: -24, y: 15}
+    - name: OutsideItem_241
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 15}
+    - name: OutsideItem_242
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 14, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_243
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -24}
+        - {x: -14, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+    - name: OutsideItem_244
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 14, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_245
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -24}
+        - {x: -14, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -24}
+    - name: OutsideItem_246
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24}
+        - {x: 15, y: 17}
+        - {x: -6, y: -11}
+        - {x: -6, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 24}
+    - name: OutsideItem_247
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: -23}
+        - {x: -4, y: -23}
+        - {x: 8, y: -19}
+        - {x: 8, y: 15}
+    - name: OutsideItem_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 16}
+        - {x: -11, y: 24}
+    - name: OutsideItem_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24}
+        - {x: -24, y: 15}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 16}
+        - {x: -11, y: 24}
+    - name: OutsideItem_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -24}
+        - {x: -22, y: -19}
+        - {x: -24, y: -19}
+        - {x: -24, y: -24}
+      - - {x: 14, y: 24}
+        - {x: 14, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -14, y: -24}
+        - {x: -14, y: 24}
+    - name: OutsideItem_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 24}
+        - {x: 14, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: OutsideItem_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: -14, y: -24}
+        - {x: -14, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[RequireComponent(typeof(Animation))]
+public class AnimationBehaviour : MonoBehaviour
+{
+    public Animation anim;
+    AnimationClip animationClip;
+
+    public void playAnimation()
+    {
+        anim = GetComponent<Animation>();
+
+        animationClip = new AnimationClip();
+        animationClip = Resources.Load<AnimationClip>("assets/Resources/an.anim");
+        animationClip.legacy = true;
+        anim.AddClip(animationClip, "animation");
+        anim.Play("animation");
+    }
+}

@@ -1,0 +1,42 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class DayChanger : MonoBehaviour
+{
+    public Animator animator;
+
+    private void Update()
+    {
+        GameObject p = GameObject.Find("Personaje");
+        if (p.GetComponent<Movimiento>().trigger)
+        {
+            Fade();
+        }
+    }
+
+    public void Fade()
+    {
+        animator.Play("FadeOut");
+                
+    }
+    
+
+    public void onFadeComplete()
+    {
+        GameObject fondo = GameObject.Find("Background");
+
+        fondo.GetComponent<TimeDayFunction>().dia = fondo.GetComponent<TimeDayFunction>().dia + 1;
+        fondo.GetComponent<TimeDayFunction>().red = 0.8f;
+        fondo.GetComponent<TimeDayFunction>().green = 0.8f;
+        fondo.GetComponent<TimeDayFunction>().blue = 0.8f;
+        fondo.GetComponent<TimeDayFunction>().inicio = Time.time;
+        fondo.GetComponent<TimeDayFunction>().hora = 6;
+        fondo.GetComponent<TimeDayFunction>().ultimoSegundo = 0.0;
+        print("se aumento el dia");
+
+        GameObject p = GameObject.Find("Personaje");
+        p.GetComponent<Movimiento>().trigger = false;
+
+    }
+}

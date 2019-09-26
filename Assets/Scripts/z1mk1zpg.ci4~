@@ -1,0 +1,73 @@
+﻿
+using System.Collections;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+using SFB;
+using UnityEditor;
+using System.IO;
+
+[RequireComponent(typeof(Button))]
+public class LoadSprite : MonoBehaviour, IPointerDownHandler
+{
+    public RawImage output;
+    public RawImage image= new RawImage();
+    string file;
+
+    //
+    // Standalone platforms & editor
+    //
+    public void OnPointerDown(PointerEventData eventData) { }
+
+
+    public void OnClick()
+    {
+        var extensions = new[] {
+                new ExtensionFilter("Image Files", "png", "jpg", "jpeg" ),
+            };
+        var paths = LoadImage.OpenFilePanel("Title", "", extensions, false);
+        if (paths.Length > 0)
+        {
+            StartCoroutine(OutputRoutine(new System.Uri(paths[0]).AbsoluteUri));
+            file= Path.GetFileNameWithoutExtension(new System.Uri(paths[0]).AbsoluteUri);
+            createSaveAnim(file);
+        }
+    }
+
+    public void createSaveAnim(string nombre)
+    {
+        Sprite[] sprites = Resources.LoadAll<Sprite>(nombre); // load all sprites in "assets/Resources/nombre" folder
+        AnimationClip animClip = new AnimationClip();
+        animClip.frameRate = 25;   // FPS
+        EditorCurveBinding spriteBinding = new EditorCurveBinding();
+        spriteBinding.type = typeof(SpriteRenderer);
+        spriteBinding.path = "";
+        spriteBinding.propertyName = "m_" + nombre;
+        ObjectReferenceKeyframe[] spriteKeyFrames = new ObjectReferenceKeyframe[sprites.Length];
+        for (int i = 0; i < (sprites.Length); i++)
+        {
+            spriteKeyFrames[i] = new ObjectReferenceKeyframe();
+            spriteKeyFrames[i].time = i;
+            spriteKeyFrames[i].value = sprites[i];
+        }
+        
+        AssetDatabase.CreateAsset(animClip, "assets/" + nombre + ".anim");
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
+    private IEnumerator OutputRoutine(string url)
+    {
+        
+        var loader = new WWW(url);
+        yield return loader;
+        image.texture = loader.texture;
+        output.texture            = loader.texture;
+
+        string file= Path.GetFileName(url);
+
+        AssetDatabase.CreateAsset(image, "assets/Resources/" + file);
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+}

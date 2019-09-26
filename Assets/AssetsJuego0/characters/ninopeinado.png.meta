@@ -1,0 +1,4373 @@
+fileFormatVersion: 2
+guid: a48d8c8d5bfe2fc49977026ea6e520f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1675390186378720706
+    second: ninopeinado_0
+  - first:
+      213: 2967051888059885289
+    second: ninopeinado_1
+  - first:
+      213: -27100986227485056
+    second: ninopeinado_2
+  - first:
+      213: 2101305837855247036
+    second: ninopeinado_3
+  - first:
+      213: -4573612871543500379
+    second: ninopeinado_4
+  - first:
+      213: 2145322333054590124
+    second: ninopeinado_5
+  - first:
+      213: -2187698208903314596
+    second: ninopeinado_6
+  - first:
+      213: -1517850193449062269
+    second: ninopeinado_7
+  - first:
+      213: 604629183889444616
+    second: ninopeinado_8
+  - first:
+      213: 2051110022103736838
+    second: ninopeinado_9
+  - first:
+      213: -5265772837507518294
+    second: ninopeinado_10
+  - first:
+      213: -2572886697236372298
+    second: ninopeinado_11
+  - first:
+      213: -6879064404732162086
+    second: ninopeinado_12
+  - first:
+      213: -761255173249590135
+    second: ninopeinado_13
+  - first:
+      213: 2773431899067508852
+    second: ninopeinado_14
+  - first:
+      213: 2934478343992171219
+    second: ninopeinado_15
+  - first:
+      213: -3232440039767756746
+    second: ninopeinado_16
+  - first:
+      213: -7954976881495404105
+    second: ninopeinado_17
+  - first:
+      213: 327168656058888799
+    second: ninopeinado_18
+  - first:
+      213: 8411869938887579701
+    second: ninopeinado_19
+  - first:
+      213: 3651728025458115807
+    second: ninopeinado_20
+  - first:
+      213: 2401730075363204272
+    second: ninopeinado_21
+  - first:
+      213: 5774465466286730592
+    second: ninopeinado_22
+  - first:
+      213: -4931524154484879934
+    second: ninopeinado_23
+  - first:
+      213: 5947756969963162127
+    second: ninopeinado_24
+  - first:
+      213: 7206730348686961648
+    second: ninopeinado_25
+  - first:
+      213: -8400581683529710584
+    second: ninopeinado_26
+  - first:
+      213: 200660052961881332
+    second: ninopeinado_27
+  - first:
+      213: 686898472196965601
+    second: ninopeinado_28
+  - first:
+      213: 4304268617371253972
+    second: ninopeinado_29
+  - first:
+      213: -5966323710151175007
+    second: ninopeinado_30
+  - first:
+      213: 1567068323256227331
+    second: ninopeinado_31
+  - first:
+      213: 2929231905618576354
+    second: ninopeinado_32
+  - first:
+      213: 1301145612683806044
+    second: ninopeinado_33
+  - first:
+      213: 5197600476894425622
+    second: ninopeinado_34
+  - first:
+      213: 6255422116135955708
+    second: ninopeinado_35
+  - first:
+      213: -8043700855816989481
+    second: ninopeinado_36
+  - first:
+      213: 1629703632484566665
+    second: ninopeinado_37
+  - first:
+      213: -7804160292744403617
+    second: ninopeinado_38
+  - first:
+      213: 1539777448794292052
+    second: ninopeinado_39
+  - first:
+      213: 3357841846178592681
+    second: ninopeinado_40
+  - first:
+      213: 2838894611944206200
+    second: ninopeinado_41
+  - first:
+      213: 7348398721866107439
+    second: ninopeinado_42
+  - first:
+      213: 6009177732974783056
+    second: ninopeinado_43
+  - first:
+      213: 2279443602789467984
+    second: ninopeinado_44
+  - first:
+      213: 7026079066455802664
+    second: ninopeinado_45
+  - first:
+      213: 2976792011417656923
+    second: ninopeinado_46
+  - first:
+      213: 2614311896482308645
+    second: ninopeinado_47
+  - first:
+      213: 6576380242151567689
+    second: ninopeinado_48
+  - first:
+      213: -684959928644226573
+    second: ninopeinado_49
+  - first:
+      213: 6876273189836467105
+    second: ninopeinado_50
+  - first:
+      213: -2422526473925366307
+    second: ninopeinado_51
+  - first:
+      213: 7744988015039633643
+    second: ninopeinado_52
+  - first:
+      213: 1455674457112444827
+    second: ninopeinado_53
+  - first:
+      213: 4651405239421533785
+    second: ninopeinado_54
+  - first:
+      213: -2503786776195146398
+    second: ninopeinado_55
+  - first:
+      213: 5577516966355982248
+    second: ninopeinado_56
+  - first:
+      213: -52456588736986321
+    second: ninopeinado_57
+  - first:
+      213: 884791152234217097
+    second: ninopeinado_58
+  - first:
+      213: -3201735278958458566
+    second: ninopeinado_59
+  - first:
+      213: 5147540247053678005
+    second: ninopeinado_60
+  - first:
+      213: -2312546212112735633
+    second: ninopeinado_61
+  - first:
+      213: -8849287085959265372
+    second: ninopeinado_62
+  - first:
+      213: 4644527102216199330
+    second: ninopeinado_63
+  - first:
+      213: -7274496877528457977
+    second: ninopeinado_64
+  - first:
+      213: 5257829929351063622
+    second: ninopeinado_65
+  - first:
+      213: 4504523746985336208
+    second: ninopeinado_66
+  - first:
+      213: 2406092005164479176
+    second: ninopeinado_67
+  - first:
+      213: 1901321998779999647
+    second: ninopeinado_68
+  - first:
+      213: -1062343420141082317
+    second: ninopeinado_69
+  - first:
+      213: -8828001030086697885
+    second: ninopeinado_70
+  - first:
+      213: -7012253830771724516
+    second: ninopeinado_71
+  - first:
+      213: -3558567682986069285
+    second: ninopeinado_72
+  - first:
+      213: 1836998954887147646
+    second: ninopeinado_73
+  - first:
+      213: -424535015525477218
+    second: ninopeinado_74
+  - first:
+      213: -8549627491175372
+    second: ninopeinado_75
+  - first:
+      213: 4328084736257530367
+    second: ninopeinado_76
+  - first:
+      213: 3448015003494058740
+    second: ninopeinado_77
+  - first:
+      213: 7112912849751576304
+    second: ninopeinado_78
+  - first:
+      213: 8710382822100528065
+    second: ninopeinado_79
+  - first:
+      213: -3067244991424588700
+    second: ninopeinado_80
+  - first:
+      213: -2837903652365047910
+    second: ninopeinado_81
+  - first:
+      213: 941553971280488886
+    second: ninopeinado_82
+  - first:
+      213: 3518546733608618174
+    second: ninopeinado_83
+  - first:
+      213: -1813489774676835618
+    second: ninopeinado_84
+  - first:
+      213: -5190603007312789646
+    second: ninopeinado_85
+  - first:
+      213: -4783261792979907470
+    second: ninopeinado_86
+  - first:
+      213: -4860674486828247683
+    second: ninopeinado_87
+  - first:
+      213: 3799258151431579339
+    second: ninopeinado_88
+  - first:
+      213: 6155458549999648346
+    second: ninopeinado_89
+  - first:
+      213: -7201649053250183783
+    second: ninopeinado_90
+  - first:
+      213: 1363300915250442363
+    second: ninopeinado_91
+  - first:
+      213: 4798109994093091178
+    second: ninopeinado_92
+  - first:
+      213: 8701884187933423877
+    second: ninopeinado_93
+  - first:
+      213: 3524300662433396442
+    second: ninopeinado_94
+  - first:
+      213: 5560810763782426271
+    second: ninopeinado_95
+  - first:
+      213: -890600935791375310
+    second: ninopeinado_96
+  - first:
+      213: 5738802348605608903
+    second: ninopeinado_97
+  - first:
+      213: -963183589425505874
+    second: ninopeinado_98
+  - first:
+      213: -722193177779764055
+    second: ninopeinado_99
+  - first:
+      213: 7632886576615704665
+    second: ninopeinado_100
+  - first:
+      213: 6624017398259061222
+    second: ninopeinado_101
+  - first:
+      213: 6979095074569144134
+    second: ninopeinado_102
+  - first:
+      213: 2010875951284874444
+    second: ninopeinado_103
+  - first:
+      213: -6093298259471452331
+    second: ninopeinado_104
+  - first:
+      213: -8442538454013228390
+    second: ninopeinado_105
+  - first:
+      213: -633412105082275342
+    second: ninopeinado_106
+  - first:
+      213: -4330542630609504048
+    second: ninopeinado_107
+  - first:
+      213: 6510138686815616412
+    second: ninopeinado_108
+  - first:
+      213: 5013141171635943983
+    second: ninopeinado_109
+  - first:
+      213: 8612970576984457133
+    second: ninopeinado_110
+  - first:
+      213: 298516754958466125
+    second: ninopeinado_111
+  - first:
+      213: 7754655368116880262
+    second: ninopeinado_112
+  - first:
+      213: 4111527293454893079
+    second: ninopeinado_113
+  - first:
+      213: 5216023582626725827
+    second: ninopeinado_114
+  - first:
+      213: 6528072144633619457
+    second: ninopeinado_115
+  - first:
+      213: 4923625318441151963
+    second: ninopeinado_116
+  - first:
+      213: 5655255078952007733
+    second: ninopeinado_117
+  - first:
+      213: -104644713462063653
+    second: ninopeinado_118
+  - first:
+      213: 4861046447966716523
+    second: ninopeinado_119
+  - first:
+      213: -1511924518113081605
+    second: ninopeinado_120
+  - first:
+      213: -6848170782826634753
+    second: ninopeinado_121
+  - first:
+      213: 2210184669812989774
+    second: ninopeinado_122
+  - first:
+      213: 7894171398919394970
+    second: ninopeinado_123
+  - first:
+      213: -6081183529877986049
+    second: ninopeinado_124
+  - first:
+      213: -3588789156771695576
+    second: ninopeinado_125
+  - first:
+      213: 6402357290981526214
+    second: ninopeinado_126
+  - first:
+      213: 8284120572801750863
+    second: ninopeinado_127
+  - first:
+      213: -5925488395577434372
+    second: ninopeinado_128
+  - first:
+      213: 4056997101848613353
+    second: ninopeinado_129
+  - first:
+      213: -3962268804552692279
+    second: ninopeinado_130
+  - first:
+      213: -9039561762354527853
+    second: ninopeinado_131
+  - first:
+      213: 7502028974666034734
+    second: ninopeinado_132
+  - first:
+      213: 5295229522001627690
+    second: ninopeinado_133
+  - first:
+      213: -7150006335803418349
+    second: ninopeinado_134
+  - first:
+      213: -3861331150430788800
+    second: ninopeinado_135
+  - first:
+      213: 2684960546894895387
+    second: ninopeinado_136
+  - first:
+      213: -4126252586487571783
+    second: ninopeinado_137
+  - first:
+      213: -8797394626036483757
+    second: ninopeinado_138
+  - first:
+      213: -6481099441000386111
+    second: ninopeinado_139
+  - first:
+      213: -1492755641747976236
+    second: ninopeinado_140
+  - first:
+      213: 8932397204299843297
+    second: ninopeinado_141
+  - first:
+      213: -2737001640425194982
+    second: ninopeinado_142
+  - first:
+      213: -5882621923241285726
+    second: ninopeinado_143
+  - first:
+      213: -8414625558434198313
+    second: ninopeinado_144
+  - first:
+      213: 5156365260718702778
+    second: ninopeinado_145
+  - first:
+      213: 2604981355705384054
+    second: ninopeinado_146
+  - first:
+      213: -8373180282509152301
+    second: ninopeinado_147
+  - first:
+      213: -2850725452672110451
+    second: ninopeinado_148
+  - first:
+      213: -1481705787445084635
+    second: ninopeinado_149
+  - first:
+      213: 1284289462247998106
+    second: ninopeinado_150
+  - first:
+      213: -1480627689215354409
+    second: ninopeinado_151
+  - first:
+      213: 9181434397861150001
+    second: ninopeinado_152
+  - first:
+      213: 3383245138158438719
+    second: ninopeinado_153
+  - first:
+      213: 6515251391326706342
+    second: ninopeinado_154
+  - first:
+      213: -5209828445545229141
+    second: ninopeinado_155
+  - first:
+      213: 5133169703957072050
+    second: ninopeinado_156
+  - first:
+      213: -7308359534592980600
+    second: ninopeinado_157
+  - first:
+      213: 5161387127451488698
+    second: ninopeinado_158
+  - first:
+      213: -6477674086290669978
+    second: ninopeinado_159
+  - first:
+      213: -918393354324816701
+    second: ninopeinado_160
+  - first:
+      213: -8986987740841623691
+    second: ninopeinado_161
+  - first:
+      213: 7879632092461564675
+    second: ninopeinado_162
+  - first:
+      213: -8926435959888289613
+    second: ninopeinado_163
+  - first:
+      213: -5101358020814925162
+    second: ninopeinado_164
+  - first:
+      213: -3156663877492529739
+    second: ninopeinado_165
+  - first:
+      213: -1654733249790006379
+    second: ninopeinado_166
+  - first:
+      213: -1121041515055498353
+    second: ninopeinado_167
+  - first:
+      213: 5679222186639917870
+    second: ninopeinado_168
+  - first:
+      213: -2488281016875247975
+    second: ninopeinado_169
+  - first:
+      213: 4152862096243220786
+    second: ninopeinado_170
+  - first:
+      213: 2956019528404648510
+    second: ninopeinado_171
+  - first:
+      213: 3480131225426868662
+    second: ninopeinado_172
+  - first:
+      213: -8595046082679843638
+    second: ninopeinado_173
+  - first:
+      213: -4572437055989621221
+    second: ninopeinado_174
+  - first:
+      213: -5781047471506291957
+    second: ninopeinado_175
+  - first:
+      213: 6529379671090930200
+    second: ninopeinado_176
+  - first:
+      213: 3401950438742752113
+    second: ninopeinado_177
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ninopeinado_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1322
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32ce56ddab8234bbb9a80f56071f62
+      internalID: 1675390186378720706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1322
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d1ed235309cf34381270129d9c8d32
+      internalID: 2967051888059885289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1322
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62297285baeb6ae40b5b0a1648f2588c
+      internalID: -27100986227485056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1322
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8d197f09000b4983f53375ecaa98a
+      internalID: 2101305837855247036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1322
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a626de5085aa86644ad75f8bb566442b
+      internalID: -4573612871543500379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1322
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a1dbed90eb4b44bad2dfda304300b1
+      internalID: 2145322333054590124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1322
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf2c4960c916aa408f190083d01f5b9
+      internalID: -2187698208903314596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1258
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6adce16b0adf8478aa40aea7ae975a
+      internalID: -1517850193449062269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1258
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68239e72cba01c4428fc159f60437128
+      internalID: 604629183889444616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1258
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45297bd2233a4d4981212389ce520db
+      internalID: 2051110022103736838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1258
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc81cd82915e0418154b8717b55007
+      internalID: -5265772837507518294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1258
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920628136af5cb247a92eb259c2f0c3d
+      internalID: -2572886697236372298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1258
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ef89cda07d6d449cade41c2718cb5
+      internalID: -6879064404732162086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1258
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a16fbeda3d3c479609f91023581ec
+      internalID: -761255173249590135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1195
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4bd520aed15664cb7ee13e34782131
+      internalID: 2773431899067508852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1195
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce5062025699745b66c8bf02a3b846
+      internalID: 2934478343992171219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1195
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cdafe3fdeee647ad6d4ffc510ed73
+      internalID: -3232440039767756746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1195
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be281bc8899a3974891a60880690add6
+      internalID: -7954976881495404105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1195
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c83896c1e77e24ca4c21d54b20dce0
+      internalID: 327168656058888799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1195
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2c8ad134f4e524c889bdab1eb56137
+      internalID: 8411869938887579701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1195
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3888cd580e76fe47ac326fc9f742155
+      internalID: 3651728025458115807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1131
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442569d58048c1a4484a6773a9d88d27
+      internalID: 2401730075363204272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1131
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e1763ba0f7da47ba054d03b0ca276
+      internalID: 5774465466286730592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1131
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748b63a76dd57c64d98147ee0e09b821
+      internalID: -4931524154484879934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1131
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f32a1cfd8ae6224d801c825c9bfdc7a
+      internalID: 5947756969963162127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1131
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e47eb138b06374fb77cb000f61dbe6
+      internalID: 7206730348686961648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1131
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7257777fb0584848a164adf38091d37
+      internalID: -8400581683529710584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_27
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1131
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa28a41f287cf42bfb3ee8ec3e5343
+      internalID: 200660052961881332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1067
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041643d923f7b3b4eb7eac2763a64054
+      internalID: 686898472196965601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1065
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e54f6c69c22b140a3fc06f3d2a5707
+      internalID: 4304268617371253972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1065
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c4a01379eee244883c54e9172bdcab
+      internalID: -5966323710151175007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1065
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba34162654e8744a7f8c3260077d80
+      internalID: 1567068323256227331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1065
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e35f77b650d46438606b8ff8b93803
+      internalID: 2929231905618576354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1065
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879a04b7d4d7d34da647778ababcd6f
+      internalID: 1301145612683806044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1065
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd866be08d782d4f83f07fa2036216b
+      internalID: 5197600476894425622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1065
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe2a034c24f5b54db18da6a188fb7a4
+      internalID: 6255422116135955708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1004
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360d59cd64bf034da9601bf6196173d
+      internalID: -8043700855816989481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1004
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d470875a5a6f4aa8f1b756dbed46c
+      internalID: 1629703632484566665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1004
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938385f608b8d345836dff9fa32c9cd
+      internalID: -7804160292744403617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1004
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1af3c400e65a347829f89eec08f31a
+      internalID: 1539777448794292052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1004
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b1f682a7b9344d8e99a9d1965b2ca
+      internalID: 3357841846178592681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1004
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667583b162c722140b8b7f88d28acc27
+      internalID: 2838894611944206200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1004
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9666b2462279d340a2b5802be728e9b
+      internalID: 7348398721866107439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1004
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054c183fc3c9ced4ab3c3aa1960eba8e
+      internalID: 6009177732974783056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 940
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad5b3c7882c764eadde614316d8aa5
+      internalID: 2279443602789467984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 941
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573c9c4c53a1b9a4e9123a99e5e59a27
+      internalID: 7026079066455802664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 941
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039ba32d79b92444b7b9bc8e2981a6c
+      internalID: 2976792011417656923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 941
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ba7935a1756a4ebc4c1872b3b7392
+      internalID: 2614311896482308645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 941
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67bd9a5d4091104cbb43e32f30c0b71
+      internalID: 6576380242151567689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 941
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf5071883b79f541aad96f4c01aa282
+      internalID: -684959928644226573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 941
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3c85468375294289db18cb394d8a0
+      internalID: 6876273189836467105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 941
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ea7fa0bbae16849a270643df958354
+      internalID: -2422526473925366307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 876
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597f1f7f5df702942b3ce1310cc71173
+      internalID: 7744988015039633643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 876
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06142974695fa2345a3de18594aa182e
+      internalID: 1455674457112444827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 876
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8027f31a452719f4e88da1fa89d17bdc
+      internalID: 4651405239421533785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_55
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 876
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acb209991b05a44180fc02a2ad00fc7
+      internalID: -2503786776195146398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 876
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9861834fd9c0634598f3a76e821971e
+      internalID: 5577516966355982248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 876
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188848a6c767034a86158f42984f97b
+      internalID: -52456588736986321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_58
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 876
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe565ed9fc39704c959d19533b50c28
+      internalID: 884791152234217097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 876
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc847ed73529742a416920564de393
+      internalID: -3201735278958458566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_60
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 814
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c7797cbc329c408bb46a650cc476b
+      internalID: 5147540247053678005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 814
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b29e48dd2272964eab69d1c1461d3db
+      internalID: -2312546212112735633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_62
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 813
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c6a1752da8b843873c99028e2bcaa
+      internalID: -8849287085959265372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 812
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48157355bbebdd43a2c871486d78944
+      internalID: 4644527102216199330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_64
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 813
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca84fbfde6aec414a821df804077ad5c
+      internalID: -7274496877528457977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_65
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 814
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5614f608ee3a643bd8aef9aa00eb32
+      internalID: 5257829929351063622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 813
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9023a5821413f4bb1e0d51b97010e5
+      internalID: 4504523746985336208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_67
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 812
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9581a01f4703840a052e0e1324696c
+      internalID: 2406092005164479176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_68
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 813
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decbb2bf428053d4ea942e2359c2464a
+      internalID: 1901321998779999647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 749
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119b0c95df3408b44a5e6f0541db8636
+      internalID: -1062343420141082317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 749
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9578e85fd1e33cc4bb8059e09552e0b2
+      internalID: -8828001030086697885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_71
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 750
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74169a99cca5e2e4583942e895f01765
+      internalID: -7012253830771724516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 750
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd69fb45014cf419e0ad182d8025ba
+      internalID: -3558567682986069285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_73
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 749
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21197b0a0b1cf74985561d62bbb922e
+      internalID: 1836998954887147646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_74
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 749
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace18cfc943f5314b9ef8415309bb6f8
+      internalID: -424535015525477218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_75
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 749
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dc9e86032a5a449a2ee1665f495895
+      internalID: -8549627491175372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 749
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2759690224f3c4ca7b736e5e38036f
+      internalID: 4328084736257530367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 749
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fdc0cee3132a4a82e5329c984530f
+      internalID: 3448015003494058740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_78
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 685
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a018c1b777d9dd9438297fa831a95ac1
+      internalID: 7112912849751576304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_79
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 685
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbdeb34394970947b0692778e675733
+      internalID: 8710382822100528065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_80
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 684
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16114a21392f0f44a2c4414e977b433
+      internalID: -3067244991424588700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_81
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 684
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746910f1527c31c439ea60e0d3920e9a
+      internalID: -2837903652365047910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_82
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 684
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c072a777b95643a27a2d18bac04d7
+      internalID: 941553971280488886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_83
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 685
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f625d9e41e8648bd4c3079be2fd39
+      internalID: 3518546733608618174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_84
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 684
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9387feecbe93f4429f3aeb5ab92299f
+      internalID: -1813489774676835618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_85
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 684
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8266644111c314b43866a0718f5a87af
+      internalID: -5190603007312789646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_86
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 684
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc83b7d137761943afc3eb75b3d2926
+      internalID: -4783261792979907470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_87
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 622
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a8a0f656634b46b58ac75e1652b2c
+      internalID: -4860674486828247683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 622
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d9fd97fd308843b6233afef120247
+      internalID: 3799258151431579339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 623
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e6d1ad1f1569428b102175a786d0d
+      internalID: 6155458549999648346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 623
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82c514ab79dd14eafc23dfe2d82349
+      internalID: -7201649053250183783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_91
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 622
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddb22b5cf897b544813d3e2bbdbe3b2
+      internalID: 1363300915250442363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_92
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 622
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d68be1a08111a49b266f16521f7d8f
+      internalID: 4798109994093091178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 622
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde67d52c59e42c4380d4f658900a773
+      internalID: 8701884187933423877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_94
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 622
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea6eaf08b5a2c4baec9b9aa58ad147
+      internalID: 3524300662433396442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_95
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 622
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b859026eaff04aae22757d814af5c
+      internalID: 5560810763782426271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_96
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 558
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b805054d6c9d4d83e07846c2e229b
+      internalID: -890600935791375310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 557
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f4e5f4633bacd4bb797ac864f69fcc
+      internalID: 5738802348605608903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 557
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b88c2b9d24d244a4f2ea4228e0852
+      internalID: -963183589425505874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 557
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f938b59d301d1f4c897476e6fb348ad
+      internalID: -722193177779764055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_100
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 557
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bcbdfa6e693e2429c888fc13eb1c2d
+      internalID: 7632886576615704665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_101
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 557
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434cb50595883547a615c5eb684b272
+      internalID: 6624017398259061222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_102
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 494
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da80c04bc3dff459ecec51fcd95e52
+      internalID: 6979095074569144134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_103
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 494
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774891cd41f036c488e5ced9ab57bc1f
+      internalID: 2010875951284874444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 494
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48026b1c3135b754f9ce63251cea6513
+      internalID: -6093298259471452331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_105
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 494
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e206e13bca0c944690b5d93075698b7
+      internalID: -8442538454013228390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 494
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b73f9176c4a543885f8804d7263e4
+      internalID: -633412105082275342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_107
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 494
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e319618ad7c6c1446af885f9acdcb4d4
+      internalID: -4330542630609504048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_108
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 431
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3bb10d2d6694479e8b8d9e6790866
+      internalID: 6510138686815616412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 431
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf645e883834c15468846257b2524d42
+      internalID: 5013141171635943983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_110
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d6ddb5f185db48b934b904837f54d
+      internalID: 8612970576984457133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 431
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9feb1b8443a95144925b1b4408ad71c
+      internalID: 298516754958466125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_112
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 431
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eab7bb413c2264e891abf0249e584d
+      internalID: 7754655368116880262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_113
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 431
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98582969dd454e344b2b4f0b11d0d2ea
+      internalID: 4111527293454893079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 367
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549fc2953ccf0454ab042f017c12469a
+      internalID: 5216023582626725827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 367
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43490b6f059f414419ef9e942ae7ebcf
+      internalID: 6528072144633619457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 367
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3b172607805944a2652bf83cd75ab
+      internalID: 4923625318441151963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_117
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 367
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66324621a1826b04d837ae50b326de08
+      internalID: 5655255078952007733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 367
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc92b7f5f35f64a9729d324bd075fa
+      internalID: -104644713462063653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_119
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 367
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c584a6f7009648b658e5beaf1c69d
+      internalID: 4861046447966716523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_120
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 303
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096e001a2aa22e41aea0043575217f9
+      internalID: -1511924518113081605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 301
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288b39c44f978524eb8f3bd4b143d411
+      internalID: -6848170782826634753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_122
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 301
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a99eed530fc38443b75118a6bbdf2c5
+      internalID: 2210184669812989774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 301
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa62c51bde871f84eb844182f68b2730
+      internalID: 7894171398919394970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_124
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 301
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33b2af4e311b754db8d65898728c5e3
+      internalID: -6081183529877986049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_125
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 301
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a6d54f9f08524288445b8ac6dbcb5
+      internalID: -3588789156771695576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_126
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 301
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac079614e3c75c64ab7510835bb7a20f
+      internalID: 6402357290981526214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_127
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 301
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a06de5444f02b4284bd413ec36b7ae
+      internalID: 8284120572801750863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_128
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 301
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ed88aa6dfdc64a88bbaf54e7ec111
+      internalID: -5925488395577434372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_129
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 301
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3c6948a6e9ce449b35843533aa208
+      internalID: 4056997101848613353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_130
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 301
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c2eb16b7bf5043852b63298301f58
+      internalID: -3962268804552692279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_131
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 301
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac805bfbf31da45ba67f3d114c149c
+      internalID: -9039561762354527853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_132
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 301
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51292d1d143c2ef4988b41758b5b5c8f
+      internalID: 7502028974666034734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_133
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5218aa9f96985b408d214d3cd35d25a
+      internalID: 5295229522001627690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66123c4df5b4d7549baee33db0d34f65
+      internalID: -7150006335803418349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_135
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 240
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef40c87023c597a438e7352692d35a90
+      internalID: -3861331150430788800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_136
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9fccd5099174429311cdef1c68a10
+      internalID: 2684960546894895387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_137
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00204797064798841bfa67aaf76ab596
+      internalID: -4126252586487571783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_138
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 240
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2ffc49e225894d89232908b56bd2d
+      internalID: -8797394626036483757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_139
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 240
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220dd146c25c04f4c8ad43077ed7a808
+      internalID: -6481099441000386111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_140
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 240
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b0b8af61f56a4b958217a2c8f39af
+      internalID: -1492755641747976236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_141
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 240
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476e91f23b64efd40b9231a9cec210c6
+      internalID: 8932397204299843297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_142
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 240
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31189a3a2890bee41ad954395c2222d4
+      internalID: -2737001640425194982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_143
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 240
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3af10c60939d4bba1623987cd9273
+      internalID: -5882621923241285726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_144
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753be9a18d37d3347af945bde347f2f6
+      internalID: -8414625558434198313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_145
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 240
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d3c60fc9d1db4dbd8e08965eb4458
+      internalID: 5156365260718702778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_146
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 176
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7effa477379132744b6624226bcddccc
+      internalID: 2604981355705384054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_147
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 177
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044958f5f9bcb5a468850bccf108139f
+      internalID: -8373180282509152301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_148
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 177
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00138225df73334895c5aaa1d3644dd
+      internalID: -2850725452672110451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_149
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 176
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b32da62a160a4dac55cff1f5a279f
+      internalID: -1481705787445084635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_150
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 176
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fae175afd1ad4eb172918137e78fb
+      internalID: 1284289462247998106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_151
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 176
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109463f65fe6494cbe37e06f12cfc77
+      internalID: -1480627689215354409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_152
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 176
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdfe11bb2e061642a7aebbfa4fbe9de
+      internalID: 9181434397861150001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_153
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 176
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceb4b2d6ea156944ae582964c8cf83f
+      internalID: 3383245138158438719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_154
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 176
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e089afba9032a24ab667334dbbc5048
+      internalID: 6515251391326706342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_155
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 176
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668484b04fb13684d8078fe1471ad11d
+      internalID: -5209828445545229141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_156
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 176
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538a2635d6875a742af1abff6469251f
+      internalID: 5133169703957072050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_157
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 176
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96fad859f72816498ab97e646cb788f
+      internalID: -7308359534592980600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_158
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 176
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094642790f5f1c84c8425d039a74a769
+      internalID: 5161387127451488698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_159
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f821cdb6af69a9f439cdfc41a45cab79
+      internalID: -6477674086290669978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_160
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 112
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef1299e4200ad428c63cb443732de4
+      internalID: -918393354324816701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_161
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 112
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc46261440e1b47ae3b83c10fa6614
+      internalID: -8986987740841623691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_162
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 112
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7623b7bf0a0744fa033acef4442f18
+      internalID: 7879632092461564675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_163
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 112
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f38a92d180a5374e88793ed45a173c2
+      internalID: -8926435959888289613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_164
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 112
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2295db0c4caed743a4a360946f84d70
+      internalID: -5101358020814925162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_165
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 112
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc765751d4a1d89419cd84246d380fb9
+      internalID: -3156663877492529739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_166
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 112
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1064bebebacbb428d34992360942f1
+      internalID: -1654733249790006379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_167
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 112
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60864626f5c7a0148a68e14874ff096d
+      internalID: -1121041515055498353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_168
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 112
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c500a4b0baa9048a693acbfc94d551
+      internalID: 5679222186639917870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_169
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 112
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445123b4f34eec42b218c072c3bac8b
+      internalID: -2488281016875247975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_170
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 112
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dadfa2cd7e5c349bed6c8dc95b3e20
+      internalID: 4152862096243220786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_171
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 112
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ebea3dc9516346b6771e314c48c01
+      internalID: 2956019528404648510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_172
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303b653cee134fb42b7fa45a41ddae95
+      internalID: 3480131225426868662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_173
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 49
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda838b33fcab04c81b8334b151fb09
+      internalID: -8595046082679843638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_174
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 49
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21448e7bde523e2488e70f08fc5018f5
+      internalID: -4572437055989621221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_175
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e04010e76e924691243d33b4bc074
+      internalID: -5781047471506291957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_176
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 50
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af316643c05de41b89a151b0a2db83
+      internalID: 6529379671090930200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninopeinado_177
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 47
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b90ce95c3d1e24185ca1989544054f
+      internalID: 3401950438742752113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 13a67834323258d4eb7b6c138f132143
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

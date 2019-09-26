@@ -1,0 +1,196 @@
+﻿using System.Collections;
+using UnityEngine.SceneManagement;
+using System.IO;
+using UnityEngine;
+using LitJson;
+using UnityEditor;
+using System.Collections.Generic;
+using UnityEngine.Networking;
+using System.Net;
+using UnityEngine.UI;
+using TMPro;
+using System;
+
+public class JSONLoaderJuego0 : MonoBehaviour
+{
+    private string jsonString;
+    private JsonData jData;
+    private JsonData gameData;
+    private string textoCartaDia;
+    private string textoNoticiaDia;
+
+    public GameObject jugador;
+    public GameObject loadingSpriteStart;
+    public GameObject animacion;
+
+    public GameObject modal;
+    public Image imageModal;
+
+    public TextMeshProUGUI  letterT;
+    public TextMeshProUGUI  newsT;
+    public TextMeshProUGUI  informationT;
+    public GameObject panelInventario;
+
+    public Button buttonLetter;
+    public Button buttonCloseModal;
+
+    public TextMeshProUGUI buttonAlimento1;
+    public TextMeshProUGUI buttonAlimento2;
+    public TextMeshProUGUI buttonAlimento3;
+
+    public TextMeshProUGUI cantidadAlimento1;
+    public TextMeshProUGUI cantidadAlimento2;
+    public TextMeshProUGUI cantidadAlimento3;
+   
+
+    //public const string url ="https://firebasestorage.googleapis.com/v0/b/lideresocialespg.appspot.com/o/juego0.json?alt=media&token=3d8deac2-9fd0-4a22-98a3-3bc7629f809b";
+    public const string url ="https://lideresocialespg.firebaseio.com/juegos.json";
+    void Start()
+    {
+        if (!File.Exists(Application.dataPath + "/Gamedata.json"))
+        {
+            cantidadAlimento1.text = (1).ToString();
+            cantidadAlimento2.text = (3).ToString();
+            cantidadAlimento3.text = (5).ToString();
+        }
+        else
+        {
+            gameData = JsonMapper.ToObject(File.ReadAllText(Application.dataPath + "/Gamedata.json"));
+            cantidadAlimento1.text = (gameData[1][0]).ToString();
+            cantidadAlimento2.text = (gameData[1][1]).ToString();
+            cantidadAlimento3.text = (gameData[1][2]).ToString();
+        }
+
+        informationT.text = "";
+        loadingSpriteStart.SetActive(false);
+        modal.SetActive(false);
+        panelInventario.SetActive(false);
+        Request();
+    }
+
+    public void Request()
+    {
+        WWW request = new WWW(url);
+        loadingSpriteStart.SetActive(true);
+        StartCoroutine(OnResponse(request));
+    }
+
+    private IEnumerator OnResponse(WWW req)
+    {
+        yield return req;
+        //string path=Application.dataPath + "/Resources/data.json";
+        if (req.error == null)
+        {
+           //jsonString = File.ReadAllText(path);
+           //print(req.text);
+           jData = JsonMapper.ToObject(req.text);
+
+           WWW reqSprite = new WWW(""+jData[0]["personaje"]["imagenPersonaje"]);
+
+           LoadInfoDia(jData[0]["infoDias"]);
+           LoadInfoAlimentos(jData[0]["alimentos"]);
+           loadingSpriteStart.SetActive(false);
+
+        }
+        else
+        {
+            Debug.LogError("No se puedieron cargar los datos del juego");
+        }
+    }
+
+
+    void LoadInfoDia(JsonData infoDias){
+            
+        textoCartaDia = ""+infoDias[0]["textoCarta"];
+        textoNoticiaDia = ""+infoDias[0]["textoPeriodico"];
+    }
+
+    void LoadInfoAlimentos(JsonData alimentos)
+    {
+        buttonAlimento1.text= "" + alimentos[0];
+        buttonAlimento2.text = "" + alimentos[1];
+        buttonAlimento3.text = "" + alimentos[2];
+    }
+
+    public void AbrirPeriodico()
+    {
+        if(!(textoNoticiaDia.Equals(""))){
+            buttonCloseModal.image.color = Color.black;
+            panelInventario.SetActive(false);
+            imageModal.enabled = true;
+            imageModal.sprite = Resources.Load<Sprite>("periodico");
+            modal.SetActive(true);
+            letterT.text="";
+            newsT.text = textoNoticiaDia;
+        }
+        else{
+            informationT.text = "Hoy no me trajeron el periódico ... ";
+            StartCoroutine(ActivationRoutine());
+        }
+    }
+
+    private IEnumerator ActivationRoutine()
+    {
+        yield return new WaitForSeconds(3);
+        informationT.text = "";
+    }
+
+    public void AbrirCarta()
+    {
+        if(!(textoCartaDia.Equals(""))){
+            buttonCloseModal.image.color = Color.black;
+            panelInventario.SetActive(false);
+            imageModal.enabled = true;
+            buttonLetter.image.sprite = Resources.Load<Sprite>("sobreAbierto");
+            imageModal.sprite = Resources.Load<Sprite>("paper");
+            modal.SetActive(true);
+            newsT.text="";
+            letterT.text = textoCartaDia;
+        }
+        else{
+            letterT.text = "Hoy no me trajeron cartas ... ";
+            StartCoroutine(ActivationRoutine());
+        }
+    }
+
+    public void AbrirDespensa()
+    {
+        panelInventario.SetActive(true);
+        imageModal.enabled = false;
+        newsT.text = "";
+        letterT.text = "";
+        modal.SetActive(true);
+        buttonCloseModal.image.color = Color.white;
+    }
+
+    public void CerrarCarta()
+    {
+        buttonLetter.image.sprite = Resources.Load<Sprite>("letter");
+        modal.SetActive(false);
+    }
+
+
+    //ESTE MÉTODO ES TEMPORAL, LA IDEA ES QUE EL ÍNDICE ENTRE POR PARÁMETRO Y CON ESE SE BUSQUE EN EL ARREGLO DE porcentajes, ES DECIR SÓLO DICHA BÚSQUEDA SE RETORNA SIN LOS IF's
+    // return porcentajesEnergia[indiceAlimento];
+    public int darPorcentajeEnergiaAlimento(int indiceAlimento)
+    {
+        gameData = JsonMapper.ToObject(File.ReadAllText(Application.dataPath + "/Gamedata.json"));
+        if (indiceAlimento == 1)
+        {
+            cantidadAlimento1.text = ""+(Int32.Parse(cantidadAlimento1.text) -1);
+            return 1;
+        }
+        else if(indiceAlimento == 2)
+        {
+            cantidadAlimento2.text = "" + (Int32.Parse(cantidadAlimento2.text) - 1);
+            return 5;
+        }
+        else
+        {
+            cantidadAlimento3.text = "" + (Int32.Parse(cantidadAlimento3.text) - 1); 
+            return 2;
+        }
+    }
+
+
+}

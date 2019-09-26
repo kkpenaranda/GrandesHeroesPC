@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4023264202631286058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4023264202631286048}
+  - component: {fileID: 4023264202631286049}
+  - component: {fileID: 4023264202631286062}
+  - component: {fileID: 4023264202631286061}
+  - component: {fileID: 4023264202631286060}
+  - component: {fileID: 4023264202631286063}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4023264202631286048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023264202631286058}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!20 &4023264202631286049
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023264202631286058}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!81 &4023264202631286062
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023264202631286058}
+  m_Enabled: 1
+--- !u!114 &4023264202631286061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023264202631286058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3910bb4186150ae4daa90392b203a221, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imageRegalo: {fileID: 0}
+  giftT: {fileID: 0}
+  tituloR: {fileID: 0}
+  jugador: {fileID: 0}
+  loadingSpriteStart: {fileID: 0}
+  animacion: {fileID: 0}
+  modal: {fileID: 0}
+  imageModal: {fileID: 0}
+  letterT: {fileID: 0}
+  newsT: {fileID: 0}
+  informationT: {fileID: 0}
+  panelInventario: {fileID: 0}
+  buttonLetter: {fileID: 0}
+  buttonCloseModal: {fileID: 0}
+  buttonAlimento1: {fileID: 0}
+  buttonAlimento2: {fileID: 0}
+  buttonAlimento3: {fileID: 0}
+  buttonAlimento4: {fileID: 0}
+  buttonAlimento5: {fileID: 0}
+  buttonAlimento6: {fileID: 0}
+  buttonAlimento7: {fileID: 0}
+  buttonAlimento8: {fileID: 0}
+  cantidadAlimento1: {fileID: 0}
+  cantidadAlimento2: {fileID: 0}
+  cantidadAlimento3: {fileID: 0}
+  cantidadAlimento4: {fileID: 0}
+  cantidadAlimento5: {fileID: 0}
+  cantidadAlimento6: {fileID: 0}
+  cantidadAlimento7: {fileID: 0}
+  cantidadAlimento8: {fileID: 0}
+--- !u!114 &4023264202631286060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023264202631286058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be07e1a3ec086d240b1b4be158c3459a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  energyBar: {fileID: 0}
+  Energy: 100
+--- !u!114 &4023264202631286063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023264202631286058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a567c4e0a103a9542b7fbfaf62f0a1ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

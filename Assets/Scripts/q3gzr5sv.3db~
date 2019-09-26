@@ -1,0 +1,134 @@
+﻿using System.Collections;
+using UnityEngine.SceneManagement;
+using System.IO;
+using UnityEngine;
+using LitJson;
+
+public class JSONLoader : MonoBehaviour
+{
+    private string jsonString;
+    private JsonData jData;
+
+    public GameObject jugador;
+    public SpriteRenderer backgroundSprite;
+    public GameObject loadingSpriteStart;
+    public GameObject animacion;
+    
+
+    //public const string url ="https://firebasestorage.googleapis.com/v0/b/lideresocialespg.appspot.com/o/juego0.json?alt=media&token=3d8deac2-9fd0-4a22-98a3-3bc7629f809b";
+    public const string url ="https://lideresocialespg.firebaseio.com/juegos.json";
+    void Start()
+    {
+        loadingSpriteStart.SetActive(false);
+        Request();
+    }
+
+    public void Request()
+    {
+        WWW request = new WWW(url);
+        loadingSpriteStart.SetActive(true);
+        StartCoroutine(OnResponse(request));
+    }
+
+    private IEnumerator OnResponse(WWW req)
+    {
+        yield return req;
+        //string path=Application.dataPath + "/Resources/data.json";
+        if (req.error == null)
+        {
+           //jsonString = File.ReadAllText(path);
+           //print(req.text);
+           jData = JsonMapper.ToObject(req.text);
+
+           WWW reqSprite = new WWW(""+jData[0]["personaje"]["imagenPersonaje"]);
+           StartCoroutine(LoadSprite(reqSprite));
+
+           LoadScene(jData[0]["escenas"]);
+           
+        }
+        else
+        {
+            Debug.LogError("No se puedieron cargar los datos del juego");
+        }
+    }
+
+        private IEnumerator  LoadSprite (WWW spriteWWW)
+        {
+            yield return spriteWWW;
+            if (spriteWWW.error == null)
+            {
+                jugador.GetComponent<SpriteRenderer>().sprite = Sprite.Create(spriteWWW.texture, new Rect(0, 0, spriteWWW.texture.width, spriteWWW.texture.height), new Vector2(0.5f, 0.5f));
+
+                Vector2 S = jugador.GetComponent<SpriteRenderer>().sprite.bounds.size;
+                jugador.GetComponent<BoxCollider2D>().size = S;
+                //jugador.GetComponent<BoxCollider2D>().offset = new Vector2 ((S.x / 2), 0);
+            }
+            else
+            {
+                Debug.LogError("No se puede cargar la imágen del personaje");
+            }
+
+        }
+
+        private void LoadScene(JsonData escenas)
+        {
+            var actual = escenas[0];
+            var interaccionActual = escenas[0];
+            for (int i = 0; i < escenas.Count; i++)
+            {
+               actual = escenas[i];
+               if((""+actual["nombreEscena"]).Equals(""+SceneManager.GetActiveScene().name))
+               {
+                    WWW reqBackground = new WWW(""+actual["imagenFondo"]);
+                    StartCoroutine(LoadBackGround(reqBackground, ""+actual["nombreEscena"]));
+
+                    for (int j = 0; j < actual["interacciones"].Count; j++)
+                    {
+                        interaccionActual = actual["interacciones"][j];
+                        createCollidersInteractions(""+interaccionActual["colliderActivador"], interaccionActual["coordenadasCollider"], interaccionActual["offsetCollider"], interaccionActual["tamCollider"]);
+                    }
+                    
+               }             
+            }
+        }
+
+        private IEnumerator LoadBackGround(WWW wwwBG, string nombre){
+            yield return wwwBG;
+            if (wwwBG.error == null)
+            {
+                backgroundSprite.sprite = Sprite.Create(wwwBG.texture, new Rect(0, 0, wwwBG.texture.width, wwwBG.texture.height), new Vector2(0.5f, 0.5f));
+                loadingSpriteStart.SetActive(false);
+            }
+            else
+            {
+                Debug.LogError("No se puede cargar el fondo de la escena "+nombre);
+            }
+        }
+
+        private void createCollidersInteractions(string nombreActivador, JsonData posicion, JsonData offset, JsonData tamanio){
+            GameObject objToSpawn;
+            objToSpawn = new GameObject(nombreActivador);
+            float x = float.Parse(""+posicion[0]);
+            float y = float.Parse(""+posicion[1]);
+            float z = float.Parse(""+posicion[2]);
+
+            float xO = float.Parse(""+offset[0]);
+            float yO = float.Parse(""+offset[1]);
+
+            float xT = float.Parse(""+tamanio[0]);
+            float yT = float.Parse(""+tamanio[1]);
+
+            objToSpawn.transform.position = new Vector3(x,y,z);
+
+            //Add Components
+            objToSpawn.AddComponent<BoxCollider2D>();
+            var coll = objToSpawn.GetComponent<BoxCollider2D>();
+            coll.isTrigger = true;
+            //define el centro del collider
+            coll.offset = new Vector2(xO,yO);
+            //define el tamanio del collider
+            coll.size = new Vector2(xT,yT);
+        }
+
+    
+}

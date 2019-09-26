@@ -1,0 +1,191 @@
+﻿
+using System.Collections;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+using SFB;
+using UnityEditor;
+using System.IO;
+using UnityEngine.Networking;
+using UnityEditorInternal;
+using System.Collections.Generic;
+
+[RequireComponent(typeof(Button))]
+public class LoadSprite : MonoBehaviour, IPointerDownHandler
+{
+    public RawImage output;
+    RawImage image;
+    string file;
+    public TextAsset imageAsset;
+
+    //
+    // Standalone platforms & editor
+    //
+    public void OnPointerDown(PointerEventData eventData) { }
+
+
+    public void OnClick()
+    {
+        var extensions = new[] {
+                new ExtensionFilter("Image Files", "png", "jpg", "jpeg" ),
+            };
+        var paths = LoadImage.OpenFilePanel("Title", "", extensions, false);
+        if (paths.Length > 0)
+        {
+            StartCoroutine(OutputRoutine(new System.Uri(paths[0]).AbsoluteUri));
+            file = Path.GetFileNameWithoutExtension(new System.Uri(paths[0]).AbsoluteUri);
+            createSaveAnim(file);
+        }
+    }
+
+    public void createSaveAnim(string nombre)
+    {
+        Sprite[] sprites = Resources.LoadAll<Sprite>(nombre);// load all sprites in "assets/Resources/nombre" folder
+        print(sprites.Length);
+        print(nombre);
+        AnimationClip animClip = new AnimationClip();
+        animClip.frameRate = 25;   // FPS
+        EditorCurveBinding spriteBinding = new EditorCurveBinding();
+        spriteBinding.type = typeof(SpriteRenderer);
+        spriteBinding.path = "";
+        spriteBinding.propertyName = "m_" + nombre;
+        ObjectReferenceKeyframe[] spriteKeyFrames = new ObjectReferenceKeyframe[sprites.Length];
+        for (int i = 0; i < (sprites.Length); i++)
+        {
+            spriteKeyFrames[i] = new ObjectReferenceKeyframe();
+            spriteKeyFrames[i].time = i;
+            spriteKeyFrames[i].value = sprites[i];
+        }
+
+        AnimationClipSettings animClipSett = new AnimationClipSettings();
+        animClipSett.loopTime = true;
+
+        AnimationUtility.SetAnimationClipSettings(animClip, animClipSett);
+
+        AnimationUtility.SetObjectReferenceCurve(animClip, spriteBinding, spriteKeyFrames);
+
+        AssetDatabase.CreateAsset(animClip, "assets/" + nombre + ".anim");
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
+    private IEnumerator OutputRoutine(string url)
+    {
+        
+        var loader = new WWW(url);
+        yield return loader;
+        output.texture            = loader.texture;
+
+        string file= Path.GetFileNameWithoutExtension(url);
+        
+        Texture2D tex = new Texture2D(2, 2);
+        byte[] bytes;
+        UnityWebRequest www = UnityWebRequest.Get(url);
+        yield return www.SendWebRequest();
+        bytes = www.downloadHandler.data;
+        tex.LoadImage(bytes);
+        tex.EncodeToPNG();
+
+        string path = url.Replace("file:///", "").Replace("%20"," ");
+
+        FileUtil.CopyFileOrDirectory(path, "assets/Resources/" + file + ".png");
+        AssetDatabase.Refresh();
+
+        ProcessTexture("assets/Resources/" + file + ".png");
+
+    }    
+    
+    static void ProcessTexture(string path)
+    {
+        print("archivo -- "+Path.GetFileNameWithoutExtension(path));
+        print("ruta -- " + path);
+        Texture2D texture = Resources.Load<Texture2D>(Path.GetFileNameWithoutExtension(path));
+        var importer = AssetImporter.GetAtPath(path) as TextureImporter;
+        
+        importer.spriteImportMode = SpriteImportMode.Multiple;
+        importer.mipmapEnabled = false;
+        importer.filterMode = FilterMode.Bilinear;
+        importer.spritePivot = Vector2.zero;
+        importer.textureCompression = TextureImporterCompression.Uncompressed;
+
+        var textureSettings = new TextureImporterSettings();
+
+        importer.ReadTextureSettings(textureSettings);
+        textureSettings.spriteMeshType = SpriteMeshType.Tight;
+        textureSettings.spriteExtrude = 0;
+
+        importer.SetTextureSettings(textureSettings);
+
+        int minimumSpriteSize = 0;
+        int extrudeSize = 0;
+
+        Rect[] rects = InternalSpriteUtility.GenerateAutomaticSpriteRectangles(texture, minimumSpriteSize, extrudeSize);
+        var rectsList = new List<Rect>(rects);
+        rectsList = SortRects(rectsList, texture.width, texture.height);
+
+        string filenameNoExtension = Path.GetFileNameWithoutExtension(path);
+        var metas = new List<SpriteMetaData>();
+        int rectNum = 0;
+
+        foreach (Rect rect in rectsList)
+        {
+            var meta = new SpriteMetaData();
+            meta.pivot = Vector2.zero;
+            meta.alignment = (int)SpriteAlignment.Center;
+            meta.rect = rect;
+            meta.name = filenameNoExtension + "_" + rectNum++;
+            metas.Add(meta);
+
+            Sprite sprite = Sprite.Create(texture, rect, meta.pivot);
+        }
+
+        importer.spritesheet = metas.ToArray();
+
+        AssetDatabase.ImportAsset(path, ImportAssetOptions.ForceUpdate);
+    }
+
+    static List<Rect> SortRects(List<Rect> rects, float textureWidth, float textureHeight)
+    {
+        List<Rect> list = new List<Rect>();
+        while (rects.Count > 0)
+        {
+            Rect rect = rects[rects.Count - 1];
+            Rect sweepRect = new Rect(0f, rect.yMin, textureWidth, textureHeight);
+            List<Rect> list2 = RectSweep(rects, sweepRect);
+            if (list2.Count <= 0)
+            {
+                list.AddRange(rects);
+                break;
+            }
+            list.AddRange(list2);
+        }
+        return list;
+    }
+
+    static List<Rect> RectSweep(List<Rect> rects, Rect sweepRect)
+    {
+        List<Rect> result;
+        if (rects == null || rects.Count == 0)
+        {
+            result = new List<Rect>();
+        }
+        else
+        {
+            List<Rect> list = new List<Rect>();
+            foreach (Rect current in rects)
+            {
+                if (current.Overlaps(sweepRect))
+                {
+                    list.Add(current);
+                }
+            }
+            foreach (Rect current2 in list)
+            {
+                rects.Remove(current2);
+            }
+            list.Sort((a, b) => a.x.CompareTo(b.x));
+            result = list;
+        }
+        return result;
+    }
+}

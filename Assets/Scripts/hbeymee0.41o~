@@ -1,0 +1,91 @@
+﻿
+using System.Collections;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
+using SFB;
+using UnityEditor;
+using System.IO;
+using UnityEngine.Networking;
+
+[RequireComponent(typeof(Button))]
+public class LoadSprite : MonoBehaviour, IPointerDownHandler
+{
+    public RawImage output;
+    RawImage image;
+    string file;
+    public TextAsset imageAsset;
+
+    //
+    // Standalone platforms & editor
+    //
+    public void OnPointerDown(PointerEventData eventData) { }
+
+
+    public void OnClick()
+    {
+        var extensions = new[] {
+                new ExtensionFilter("Image Files", "png", "jpg", "jpeg" ),
+            };
+        var paths = LoadImage.OpenFilePanel("Title", "", extensions, false);
+        if (paths.Length > 0)
+        {
+            StartCoroutine(OutputRoutine(new System.Uri(paths[0]).AbsoluteUri));
+            file= Path.GetFileNameWithoutExtension(new System.Uri(paths[0]).AbsoluteUri);
+            createSaveAnim(file);
+        }
+    }
+
+    public void createSaveAnim(string nombre)
+    {
+        Sprite[] sprites = Resources.LoadAll<Sprite>(nombre); // load all sprites in "assets/Resources/nombre" folder
+        AnimationClip animClip = new AnimationClip();
+        animClip.frameRate = 25;   // FPS
+        EditorCurveBinding spriteBinding = new EditorCurveBinding();
+        spriteBinding.type = typeof(SpriteRenderer);
+        spriteBinding.path = "";
+        spriteBinding.propertyName = "m_" + nombre;
+        ObjectReferenceKeyframe[] spriteKeyFrames = new ObjectReferenceKeyframe[sprites.Length];
+        for (int i = 0; i < (sprites.Length); i++)
+        {
+            spriteKeyFrames[i] = new ObjectReferenceKeyframe();
+            spriteKeyFrames[i].time = i;
+            spriteKeyFrames[i].value = sprites[i];
+        }
+
+        AnimationClipSettings animClipSett = new AnimationClipSettings();
+        animClipSett.loopTime = true;
+
+        AnimationUtility.SetAnimationClipSettings(animClip, animClipSett);
+
+        AnimationUtility.SetObjectReferenceCurve(animClip, spriteBinding, spriteKeyFrames);
+
+        AssetDatabase.CreateAsset(animClip, "assets/" + nombre + ".anim");
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+
+    private IEnumerator OutputRoutine(string url)
+    {
+        
+        var loader = new WWW(url);
+        yield return loader;
+        output.texture            = loader.texture;
+
+        string file= Path.GetFileNameWithoutExtension(url);
+
+        Sprite sprite = Sprite.Create(loader.texture, new Rect(0, 0, output.texture.width, output.texture.height),
+        new Vector2(output.texture.width/2, output.texture.height/2));
+
+        Texture2D tex = new Texture2D(2, 2);
+        byte[] bytes;
+        UnityWebRequest www = UnityWebRequest.Get(url);
+        yield return www.SendWebRequest();
+        bytes = www.downloadHandler.data;
+        tex.LoadImage(bytes);
+
+        AssetDatabase.CreateAsset(tex, "assets/Resources/" + file + ".png");
+        AssetDatabase.SaveAssets();
+        AssetDatabase.Refresh();
+    }
+}
