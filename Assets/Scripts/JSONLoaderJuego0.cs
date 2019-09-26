@@ -229,6 +229,19 @@ public class JSONLoaderJuego0 : MonoBehaviour
     {
         if(!(textoNoticiaDia.Equals(""))){
             p.GetComponent<Movimiento>().permiteMoverse = false;
+            if(p.GetComponent<Movimiento>().DialogoNPC1C!= null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC1C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoNPC2C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC2C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoMomC != null)
+            {
+                p.GetComponent<Movimiento>().DialogoMomC.SetActive(false);
+            }
+
             buttonCloseModal.image.color = Color.black;
             panelInventario.SetActive(false);
             imageModal.enabled = true;
@@ -244,6 +257,18 @@ public class JSONLoaderJuego0 : MonoBehaviour
             urlNews.enabled = true;
         }
         else{
+            if (p.GetComponent<Movimiento>().DialogoNPC1C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC1C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoNPC2C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC2C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoMomC != null)
+            {
+                p.GetComponent<Movimiento>().DialogoMomC.SetActive(false);
+            }
             informationT.text = "Hoy no me trajeron el periódico ... ";
             StartCoroutine(ActivationRoutine());
         }
@@ -270,6 +295,18 @@ public class JSONLoaderJuego0 : MonoBehaviour
             //SoundManager.PlaySound("abrirAlgo");
 
             p.GetComponent<Movimiento>().permiteMoverse = false;
+            if (p.GetComponent<Movimiento>().DialogoNPC1C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC1C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoNPC2C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC2C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoMomC != null)
+            {
+                p.GetComponent<Movimiento>().DialogoMomC.SetActive(false);
+            }
             buttonCloseModal.image.color = Color.black;
             panelInventario.SetActive(false);
             imageRegalo.enabled = false;
@@ -287,6 +324,18 @@ public class JSONLoaderJuego0 : MonoBehaviour
 
         }
         else{
+            if (p.GetComponent<Movimiento>().DialogoNPC1C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC1C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoNPC2C != null)
+            {
+                p.GetComponent<Movimiento>().DialogoNPC2C.SetActive(false);
+            }
+            if (p.GetComponent<Movimiento>().DialogoMomC != null)
+            {
+                p.GetComponent<Movimiento>().DialogoMomC.SetActive(false);
+            }
             informationT.text = "Hoy no me trajeron cartas ... ";
             StartCoroutine(ActivationRoutine());
         }

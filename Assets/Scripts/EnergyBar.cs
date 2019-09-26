@@ -34,7 +34,7 @@ public class EnergyBar : MonoBehaviour
 
     void Update()
     {
-        Hungry(0.4e-2f);
+        Hungry(0.3e-2f);
     }
 
     public void Hungry(float value)
