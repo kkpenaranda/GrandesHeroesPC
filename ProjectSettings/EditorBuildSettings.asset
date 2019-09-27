@@ -6,32 +6,32 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/PaginaPrincipal.unity
-    guid: bd2dc1b237736fd4ca02844e6b1c9b6e
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Registro.unity
-    guid: 31ead81d079e01c48b73636cdd1480a8
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/SeleccionEscena.unity
-    guid: ceb57865be7c9cb46ae69f8ba10d06fd
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/SeleccionPersonaje.unity
-    guid: 9d258866bb57121418dd673ea08f53f5
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/SeleccionSprite.unity
-    guid: 0a20381140dd97c48b1f23dc7056a032
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/InteriorCasa.unity
-    guid: 572cc3db7ed2e8147bbdb62a5d41dff8
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ExteriorCasa.unity
-    guid: 470d563b0f57dfd49b5a6fadc5391983
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Plaza.unity
-    guid: 7c2729eede569144e854c392f9ee7111
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Juego0/Inicio.unity
     guid: 6bce9fc700bd1ad408090088eb81e0aa
